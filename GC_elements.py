@@ -17,22 +17,19 @@ def process_urls(capability_name, capability_elements):
               'Level+6',
               ],
             }
-  for level in params['level']:
-    url = baseurl + 'element=' + '&element='.join(capability_elements) + '&level=' + '&level='.join(params['level'])
-    print('Getting', url)
-    r = requests.get(url, headers=headers)
-    soup = BeautifulSoup(r.text, 'html.parser')
-    parse_html(soup)
+  url = baseurl + 'element=' + '&element='.join(capability_elements) + '&level=' + '&level='.join(params['level'])
+  print('Getting', url)
+  r = requests.get(url, headers=headers)
+  soup = BeautifulSoup(r.text, 'html.parser')
+  parse_html(soup, capability_name, capability_elements)
 
-def parse_html(html):
+def parse_html(html, capability_name, capability_elements):
   global results
 
   # prepare relevant page sections
   # clear these, just in case of empty results carrying over
-  cd_items = None
-  elaboration_items = None
-  cd_items = html.find_all('li',attrs={'title': capability_cd_title})
-  elaboration_items = html.find_all('li',attrs={'title': capability_elaboration_title})
+  elements = None
+  elements = html.find_all('div',attrs={'class': 'accordion'})
 
   # deal with multiple pages
   next_page = None
@@ -43,93 +40,34 @@ def parse_html(html):
       next_page = link_element['href']
 
   # content descriptions
-  for cd in cd_items:
-    # go to CD itself
-    cd = cd.find_parent('section', attrs={'class' :'content-description'})
-    # get CD ID and text, learning area and year
-    cd_id = cd['id']
-    cd_text = cd.contents[1].get_text().strip().split('\r\n')[0]
-    # this breaks on some subjects that use non-latin encoding
-    # It appears the DOM, although it looks ok, isn't constructed such
-    # that any section tags are found above the CD tag in the heirarchy
-    page_sections = cd.find_parents('section')
-    learning_area = None
-    for section in page_sections:
-      learning_area = section.find('h2')
-      if learning_area is not None:
-        break
-    learning_area = learning_area.contents
-    if len(learning_area) > 1:
-      year = learning_area[0].strip()
-      learning_area = learning_area[2].strip()
-    if learning_area not in results:
-      results[learning_area] = {}
-    if year not in results[learning_area]:
-      results[learning_area][year] = {}
-    results[learning_area][year][cd_id] = {
-      'text': cd_text,
-      'elements': {},
-      'elaborations': {},
-    }
-    # find the GC div - need to restrict search space to avoid elaborations
-    cd_footer = cd.footer.find_all('div', recursive=False)
-    for capability in cd_footer:
-      capability_div = capability.find(attrs={'class': 'capability-title'},string=capability_elaboration_title)
-      if capability_div is not None:
-        break
-    # extract GC aspects for CD (if they exist)
-    if capability_div:
-      capability_elements = capability_div.parent.find_all('ul')
-      for element in capability_elements:
-        element_title = element.previous_sibling.previous_sibling.string.strip()
-        element_aspects = [e.string for e in element.find_all('li', recursive=False)]
-        results[learning_area][year][cd_id]['elements'][element_title] = element_aspects
-
-  # elaborations
-  for elaboration in elaboration_items:
-    # link elaboration to CD
-    elaboration_li = elaboration.parent.parent
-    elaboration_id = elaboration_li['id']
-    cd_id = elaboration_li.find_parent('section', class_='content-description')['id']
-    page_sections = elaboration_li.find_parents('section')
-    learning_area = None
-    for section in page_sections:
-      learning_area = section.find('h2')
-      if learning_area is not None:
-        break
-    learning_area = learning_area.contents
-    if len(learning_area) > 1:
-      year = learning_area[0].strip()
-      learning_area = learning_area[2].strip()
-    if learning_area not in results:
-      results[learning_area] = {}
-    if year not in results[learning_area]:
-      results[learning_area][year] = {}
-    if cd_id not in results[learning_area][year]:
-      cd_text = elaboration_li.parent.parent.parent.contents[1].get_text().strip().split('\r\n')[0]
-      results[learning_area][year][cd_id] = {
-        'text': cd_text,
-        'elements': {},
-        'elaborations': {},
-      }
-    results[learning_area][year][cd_id]['elaborations'][elaboration_id] = {
-      'text': elaboration_li.contents[0].string.strip(),
-      'elements': {},
-    }
-    # extract GC aspects for elaboration
-    capability_div = elaboration_li.find(attrs={'class': 'capability-title'},string=capability_elaboration_title)
-    capability_elements = capability_div.parent.find_all('ul')
-    for element in capability_elements:
-      element_title = element.previous_sibling.previous_sibling.string.strip()
-      element_aspects = [e.string for e in element.find_all('li', recursive=False)]
-      results[learning_area][year][cd_id]['elaborations'][elaboration_id]['elements'][element_title] = element_aspects
+  for element in elements:
+    # extract element name
+    element_name = element.find('h3').get_text().strip()
+    
+    # get levels
+    levels = element.contents[3].find_all('h2')
+    for level in levels:
+      level_name = level.get_text().strip()
+      sub_elements = level.parent.find_all('h3')
+      for sub_element in sub_elements:
+        sub_element_name = sub_element.get_text().strip()
+        sub_element_id = sub_element.next_sibling.next_sibling['id']
+        sub_element_text = sub_element.next_sibling.next_sibling.get_text().strip()
+        if capability_name not in results:
+          results[capability_name] = {}
+        if level_name not in results[capability_name]:
+          results[capability_name][level_name] = {}
+        results[capability_name][level_name][sub_element_id] = {
+          'name': sub_element_name,
+          'text': sub_element_text,
+        }
 
   # check if another page exists
   if next_page:
     print('Getting', next_page)
     r = requests.get(next_page, headers=headers)
     soup = BeautifulSoup(r.text, 'html.parser')
-    parse_html(soup)
+    parse_html(soup, capability_name, capability_elements)
 
 headers = {
   'User-Agent' : 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15',

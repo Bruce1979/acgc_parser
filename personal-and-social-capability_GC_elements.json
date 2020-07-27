@@ -1,0 +1,442 @@
+{
+  "personal-and-social-capability": {
+    "Level 1a": {
+      "14528": {
+        "name": "Recognise emotions",
+        "text": "recognise and identify their own emotions"
+      },
+      "14533": {
+        "name": "Recognise personal qualities and achievements",
+        "text": "express a personal preference"
+      },
+      "14534": {
+        "name": "Understand themselves as learners",
+        "text": "select tasks they can do in different learning contexts"
+      },
+      "14527": {
+        "name": "Develop reflective practice",
+        "text": "recognise and identify participation in or completion of a task"
+      },
+      "14531": {
+        "name": "Express emotions appropriately",
+        "text": "recognise and identify how their emotions influence the way they feel and act"
+      },
+      "14532": {
+        "name": "Develop self-discipline and set goals",
+        "text": "make a choice to participate in a class activity"
+      },
+      "14529": {
+        "name": "Work independently and show initiative",
+        "text": "attempt tasks with support or prompting"
+      },
+      "14530": {
+        "name": "Become confident resilient and adaptable",
+        "text": "identify people and situations with which they feel a sense of familiarity or belonging"
+      },
+      "14535": {
+        "name": "Social Awareness",
+        "text": "show an awareness for the feelings, needs and interests of others"
+      },
+      "14536": {
+        "name": "Social Management",
+        "text": "respond to the feelings, needs and interests of others"
+      }
+    },
+    "Level 1b": {
+      "14551": {
+        "name": "Recognise emotions",
+        "text": "identify a range of emotions and describe situations that may evoke these emotions"
+      },
+      "14549": {
+        "name": "Recognise personal qualities and achievements",
+        "text": "identify their likes and dislikes, needs and wants, and explore what influences these"
+      },
+      "14550": {
+        "name": "Understand themselves as learners",
+        "text": "identify their abilities, talents and interests as learners"
+      },
+      "14541": {
+        "name": "Develop reflective practice",
+        "text": "reflect on their feelings as learners and how their efforts affect skills and achievements"
+      },
+      "14538": {
+        "name": "Express emotions appropriately",
+        "text": "express their emotions constructively in interactions with others"
+      },
+      "14539": {
+        "name": "Develop self-discipline and set goals",
+        "text": "follow class routines to assist learning"
+      },
+      "14547": {
+        "name": "Work independently and show initiative",
+        "text": "attempt tasks independently and identify when and from whom help can be sought"
+      },
+      "14537": {
+        "name": "Become confident resilient and adaptable",
+        "text": "identify situations that feel safe or unsafe, approaching new situations with confidence"
+      },
+      "14545": {
+        "name": "Appreciate diverse perspectives",
+        "text": "acknowledge that people hold many points of view"
+      },
+      "14543": {
+        "name": "Contribute to civil society",
+        "text": "describe ways they can help at home and school"
+      },
+      "14546": {
+        "name": "Understand relationships",
+        "text": "explore relationships through play and group experiences"
+      },
+      "14540": {
+        "name": "Communicate effectively",
+        "text": "identify positive ways to initiate, join and interrupt conversations with adults and peers"
+      },
+      "14548": {
+        "name": "Work collaboratively",
+        "text": "share experiences of cooperation in play and group activities"
+      },
+      "14552": {
+        "name": "Make decisions",
+        "text": "identify options when making decisions to meet their needs and the needs of others"
+      },
+      "14542": {
+        "name": "Negotiate and resolve conflict",
+        "text": "listen to others\u2019 ideas, and recognise that others may see things differently from them"
+      },
+      "14544": {
+        "name": "Develop leadership skills",
+        "text": "identify ways to take responsibility for familiar tasks at home and school"
+      }
+    },
+    "Level 2": {
+      "14561": {
+        "name": "Recognise emotions",
+        "text": "compare their emotional responses with those of their peers"
+      },
+      "14555": {
+        "name": "Recognise personal qualities and achievements",
+        "text": "identify and describe personal interests, skills and achievements and explain how these contribute to family and school life"
+      },
+      "14554": {
+        "name": "Understand themselves as learners",
+        "text": "discuss their strengths and weaknesses as learners and identify some learning strategies to assist them"
+      },
+      "14558": {
+        "name": "Develop reflective practice",
+        "text": "reflect on what they have learnt about themselves from a range of experiences at home and school"
+      },
+      "14562": {
+        "name": "Express emotions appropriately",
+        "text": "describe ways to express emotions to show awareness of the feelings and needs of others"
+      },
+      "14553": {
+        "name": "Develop self-discipline and set goals",
+        "text": "set goals in learning and personal organisation by completing tasks within a given time"
+      },
+      "14556": {
+        "name": "Work independently and show initiative",
+        "text": "work independently on routine tasks and experiment with strategies to complete other tasks where appropriate"
+      },
+      "14557": {
+        "name": "Become confident resilient and adaptable",
+        "text": "undertake and persist with short tasks, within the limits of personal safety"
+      },
+      "14563": {
+        "name": "Appreciate diverse perspectives",
+        "text": "describe similarities and differences in points of view between themselves and people in their communities"
+      },
+      "14560": {
+        "name": "Contribute to civil society",
+        "text": "describe how they contribute to their homes, classrooms and local communities, and how others care for and assist them"
+      },
+      "14564": {
+        "name": "Understand relationships",
+        "text": "identify ways to care for others, including ways of making and keeping friends"
+      },
+      "14565": {
+        "name": "Communicate effectively",
+        "text": "discuss the use of verbal and nonverbal communication skills to respond appropriately to adults and peers"
+      },
+      "14559": {
+        "name": "Work collaboratively",
+        "text": "identify cooperative behaviours in a range of group activities"
+      },
+      "14567": {
+        "name": "Make decisions",
+        "text": "practise individual and group decision making in situations such as class meetings and when working in pairs and small groups"
+      },
+      "14568": {
+        "name": "Negotiate and resolve conflict",
+        "text": "practise solving simple interpersonal problems, recognising there are many ways to solve conflict"
+      },
+      "14566": {
+        "name": "Develop leadership skills",
+        "text": "discuss ways in which they can take responsibility for their own actions"
+      }
+    },
+    "Level 3": {
+      "14578": {
+        "name": "Recognise emotions",
+        "text": "describe the influence that people, situations and events have on their emotions"
+      },
+      "14580": {
+        "name": "Recognise personal qualities and achievements",
+        "text": "describe personal strengths and challenges and identify skills they wish to develop"
+      },
+      "14582": {
+        "name": "Understand themselves as learners",
+        "text": "identify and describe factors and strategies that assist their learning"
+      },
+      "14576": {
+        "name": "Develop reflective practice",
+        "text": "reflect on personal strengths and achievements, based on self-assessment strategies and teacher feedback"
+      },
+      "14583": {
+        "name": "Express emotions appropriately",
+        "text": "identify and describe strategies to manage and moderate emotions in increasingly unfamiliar situations"
+      },
+      "14581": {
+        "name": "Develop self-discipline and set goals",
+        "text": "explain the value of self-discipline and goal-setting in helping them to learn"
+      },
+      "14579": {
+        "name": "Work independently and show initiative",
+        "text": "consider, select and adopt a range of strategies for working independently and taking initiative"
+      },
+      "14569": {
+        "name": "Become confident resilient and adaptable",
+        "text": "persist with tasks when faced with challenges and adapt their approach where first attempts are not successful"
+      },
+      "14570": {
+        "name": "Appreciate diverse perspectives",
+        "text": "discuss the value of diverse perspectives and describe a point of view that is different from their own"
+      },
+      "14574": {
+        "name": "Contribute to civil society",
+        "text": "identify the various communities to which they belong and what they can do to make a difference"
+      },
+      "14577": {
+        "name": "Understand relationships",
+        "text": "describe factors that contribute to positive relationships, including with people at school and in their community"
+      },
+      "14571": {
+        "name": "Communicate effectively",
+        "text": "identify communication skills that enhance relationships for particular groups and purposes"
+      },
+      "14584": {
+        "name": "Work collaboratively",
+        "text": "describe characteristics of cooperative behaviour and identify evidence of these in group activities"
+      },
+      "14573": {
+        "name": "Make decisions",
+        "text": "contribute to and predict the consequences of group decisions in a range of situations"
+      },
+      "14575": {
+        "name": "Negotiate and resolve conflict",
+        "text": "identify a range of conflict resolution strategies to negotiate positive outcomes to problems"
+      },
+      "14572": {
+        "name": "Develop leadership skills",
+        "text": "discuss the concept of leadership and identify situations where it is appropriate to adopt this role"
+      }
+    },
+    "Level 4": {
+      "14590": {
+        "name": "Recognise emotions",
+        "text": "explain how the appropriateness of emotional responses influences behaviour"
+      },
+      "14586": {
+        "name": "Recognise personal qualities and achievements",
+        "text": "describe the influence that personal qualities and strengths have on their learning outcomes"
+      },
+      "14593": {
+        "name": "Understand themselves as learners",
+        "text": "identify preferred learning styles and work habits"
+      },
+      "14597": {
+        "name": "Develop reflective practice",
+        "text": "monitor their progress, seeking and responding to feedback from teachers to assist them in consolidating strengths, addressing weaknesses and fulfilling their potential"
+      },
+      "14599": {
+        "name": "Express emotions appropriately",
+        "text": "explain the influence of emotions on behaviour, learning and relationships"
+      },
+      "14585": {
+        "name": "Develop self-discipline and set goals",
+        "text": "analyse factors that influence ability to self-regulate; devise and apply strategies to monitor own behaviour and set realistic learning goals"
+      },
+      "14589": {
+        "name": "Work independently and show initiative",
+        "text": "assess the value of working independently, and taking initiative to do so where appropriate"
+      },
+      "14595": {
+        "name": "Become confident resilient and adaptable",
+        "text": "devise strategies and formulate plans to assist in the completion of challenging tasks and the maintenance of personal safety"
+      },
+      "14592": {
+        "name": "Appreciate diverse perspectives",
+        "text": "explain how means of communication differ within and between communities and identify the role these play in helping or hindering understanding of others"
+      },
+      "14598": {
+        "name": "Contribute to civil society",
+        "text": "identify a community need or problem and consider ways to take action to address it"
+      },
+      "14588": {
+        "name": "Understand relationships",
+        "text": "identify the differences between positive and negative relationships and ways of managing these"
+      },
+      "14600": {
+        "name": "Communicate effectively",
+        "text": "identify and explain factors that influence effective communication in a variety of situations"
+      },
+      "14587": {
+        "name": "Work collaboratively",
+        "text": "contribute to groups and teams, suggesting improvements in methods used for group investigations and projects"
+      },
+      "14594": {
+        "name": "Make decisions",
+        "text": "identify factors that influence decision making and consider the usefulness of these in making their own decisions"
+      },
+      "14596": {
+        "name": "Negotiate and resolve conflict",
+        "text": "identify causes and effects of conflict, and practise different strategies to diffuse or resolve conflict situations"
+      },
+      "14591": {
+        "name": "Develop leadership skills",
+        "text": "initiate or help to organise group activities that address a common need"
+      }
+    },
+    "Level 5": {
+      "14605": {
+        "name": "Recognise emotions",
+        "text": "examine influences on and consequences of their emotional responses in a learning, social and work-related contexts"
+      },
+      "14611": {
+        "name": "Recognise personal qualities and achievements",
+        "text": "make a realistic assessment of their abilities and achievements, and prioritise areas for improvement"
+      },
+      "14609": {
+        "name": "Understand themselves as learners",
+        "text": "identify and choose a range of learning strategies appropriate to specific tasks and describe work practices that assist their learning"
+      },
+      "14603": {
+        "name": "Develop reflective practice",
+        "text": "predict the outcomes of personal and academic challenges by drawing on previous problem solving and decision making strategies and feedback from peers and teachers"
+      },
+      "14602": {
+        "name": "Express emotions appropriately",
+        "text": "forecast the consequences of expressing emotions inappropriately and devise measures to regulate behaviour"
+      },
+      "14608": {
+        "name": "Develop self-discipline and set goals",
+        "text": "select, use and analyse strategies that assist in regulating behaviour and achieving personal and learning goals"
+      },
+      "14606": {
+        "name": "Work independently and show initiative",
+        "text": "critique their effectiveness in working independently by identifying enablers and barriers to achieving goals"
+      },
+      "14612": {
+        "name": "Become confident resilient and adaptable",
+        "text": "assess, adapt and modify personal and safety strategies and plans, and revisit tasks with renewed confidence"
+      },
+      "14613": {
+        "name": "Appreciate diverse perspectives",
+        "text": "acknowledge the values, opinions and attitudes of different groups within society and compare to their own points of view"
+      },
+      "14604": {
+        "name": "Contribute to civil society",
+        "text": "analyse personal and social roles and responsibilities in planning and implementing ways of contributing to their communities"
+      },
+      "14601": {
+        "name": "Understand relationships",
+        "text": "identify indicators of possible problems in relationships in a range of social and work related situations"
+      },
+      "14614": {
+        "name": "Communicate effectively",
+        "text": "analyse enablers of and barriers to effective verbal, nonverbal and digital communication"
+      },
+      "14607": {
+        "name": "Work collaboratively",
+        "text": "assess the extent to which individual roles and responsibilities enhance group cohesion and the achievement of personal and group objectives"
+      },
+      "14616": {
+        "name": "Make decisions",
+        "text": "assess individual and group decision-making processes in challenging situations"
+      },
+      "14610": {
+        "name": "Negotiate and resolve conflict",
+        "text": "assess the appropriateness of various conflict resolution strategies in a range of social and work-related situations"
+      },
+      "14615": {
+        "name": "Develop leadership skills",
+        "text": "plan school and community projects, applying effective problem-solving and team-building strategies, and making the most of available resources to achieve goals"
+      }
+    },
+    "Level 6": {
+      "14623": {
+        "name": "Recognise emotions",
+        "text": "reflect critically on their emotional responses to challenging situations in a wide range of learning, social and work-related contexts"
+      },
+      "14629": {
+        "name": "Recognise personal qualities and achievements",
+        "text": "assess their strengths and challenges and devise personally appropriate strategies to achieve future success"
+      },
+      "14622": {
+        "name": "Understand themselves as learners",
+        "text": "evaluate the effectiveness of commonly used learning strategies and work practices and refine these as required"
+      },
+      "14632": {
+        "name": "Develop reflective practice",
+        "text": "reflect on feedback from peers, teachers and other adults, to analyse personal characteristics and skill set that contribute to or limit their personal and social capability"
+      },
+      "14625": {
+        "name": "Express emotions appropriately",
+        "text": "consider control and justify their emotional responses, in expressing their opinions, beliefs, values, questions and choices"
+      },
+      "14627": {
+        "name": "Develop self-discipline and set goals",
+        "text": "critically analyse self-discipline strategies and personal goals and consider their application in social and work-related contexts"
+      },
+      "14626": {
+        "name": "Work independently and show initiative",
+        "text": "establish personal priorities, manage resources effectively and demonstrate initiative to achieve personal goals and learning outcomes"
+      },
+      "14619": {
+        "name": "Become confident resilient and adaptable",
+        "text": "evaluate, rethink and refine approaches to tasks to take account of unexpected or difficult situations and safety considerations"
+      },
+      "14618": {
+        "name": "Appreciate diverse perspectives",
+        "text": "articulate their personal value system and analyse the effects of actions that repress social power and limit the expression of diverse views"
+      },
+      "14621": {
+        "name": "Contribute to civil society",
+        "text": "plan, implement and evaluate ways of contributing to civil society at local, national regional and global levels"
+      },
+      "14617": {
+        "name": "Understand relationships",
+        "text": "explain how relationships differ between peers, parents, teachers and other adults, and identify the skills needed to manage different types of relationships"
+      },
+      "14631": {
+        "name": "Communicate effectively",
+        "text": "formulate plans for effective communication (verbal, nonverbal, digital) to complete complex tasks"
+      },
+      "14630": {
+        "name": "Work collaboratively",
+        "text": "critique their ability to devise and enact strategies for working in diverse teams, drawing on the skills and contributions of team members to complete complex tasks"
+      },
+      "14624": {
+        "name": "Make decisions",
+        "text": "develop and apply criteria to evaluate the outcomes of individual and group decisions and analyse the consequences of their decision making"
+      },
+      "14628": {
+        "name": "Negotiate and resolve conflict",
+        "text": "generate, apply and evaluate strategies such as active listening, mediation and negotiation to prevent and resolve interpersonal problems and conflicts"
+      },
+      "14620": {
+        "name": "Develop leadership skills",
+        "text": "propose, implement and monitor strategies to address needs prioritised at local, national, regional and global levels, and communicate these widely"
+      }
+    }
+  }
+}
