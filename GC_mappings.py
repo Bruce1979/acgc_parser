@@ -153,8 +153,12 @@ def parse_html(html, capability_cd_title, capability_elaboration_title):
         'elements': {},
         'elaborations': {},
       }
+    elaboration_text = elaboration_li.contents[0].string.strip()
+    # if there was a p tag in there, it's in a slightly different place
+    if elaboration_text == "":
+      elaboration_text = elaboration_li.find('p').get_text().strip()
     results[learning_area][year][cd_id]['elaborations'][elaboration_id] = {
-      'text': elaboration_li.contents[0].string.strip(),
+      'text': elaboration_text,
       'elements': {},
     }
     # extract GC aspects for elaboration
