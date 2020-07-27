@@ -1,195 +1,221 @@
 {
   "critical-and-creative-thinking": {
-    "Level 1": {
-      "14457": {
-        "name": "Pose questions",
-        "text": "pose factual and exploratory questions based on personal interests and experiences"
+    "Inquiring \u2013 identifying, exploring and organising information and ideas": {
+      "Level 1": {
+        "14457": {
+          "name": "Pose questions",
+          "text": "pose factual and exploratory questions based on personal interests and experiences"
+        },
+        "14458": {
+          "name": "Identify and clarify information and ideas",
+          "text": "identify and describe familiar information and ideas during a discussion or investigation"
+        },
+        "14459": {
+          "name": "Organise and process information",
+          "text": "gather similar information or depictions from given sources"
+        }
       },
-      "14458": {
-        "name": "Identify and clarify information and ideas",
-        "text": "identify and describe familiar information and ideas during a discussion or investigation"
+      "Level 2": {
+        "14474": {
+          "name": "Pose questions",
+          "text": "pose questions to identify and clarify issues, and compare information in their world"
+        },
+        "14475": {
+          "name": "Identify and clarify information and ideas",
+          "text": "identify and explore information and ideas from source materials"
+        },
+        "14473": {
+          "name": "Organise and process information",
+          "text": "organise information based on similar or relevant ideas from several sources"
+        }
       },
-      "14459": {
-        "name": "Organise and process information",
-        "text": "gather similar information or depictions from given sources"
-      },
-      "14466": {
-        "name": "Imagine possibilities and connect ideas",
-        "text": "use imagination to view or create things in new ways and connect two things that seem different"
-      },
-      "14461": {
-        "name": "Consider alternatives",
-        "text": "suggest alternative and creative ways to approach a given situation or task"
-      },
-      "14460": {
-        "name": "Seek solutions and put ideas into action",
-        "text": "predict what might happen in a given situation and when putting ideas into action"
-      },
-      "14455": {
-        "name": "Think about thinking (metacognition)",
-        "text": "describe what they are thinking and give reasons why"
-      },
-      "14464": {
-        "name": "Reflect on processes",
-        "text": "identify the main elements of the steps in a thinking process"
-      },
-      "14463": {
-        "name": "Transfer knowledge into new contexts",
-        "text": "connect information from one setting to another"
-      },
-      "14465": {
-        "name": "Apply logic and reasoning",
-        "text": "identify the thinking used to solve problems in given situations"
-      },
-      "14456": {
-        "name": "Draw conclusions and design a course of action",
-        "text": "share their thinking about possible courses of action"
-      },
-      "14462": {
-        "name": "Evaluate procedures and outcomes",
-        "text": "check whether they are satisfied with the outcome of tasks or actions"
+      "Level 3": {
+        "14481": {
+          "name": "Pose questions",
+          "text": "pose questions to expand their knowledge about the world"
+        },
+        "14489": {
+          "name": "Identify and clarify information and ideas",
+          "text": "identify main ideas and select and clarify information from a range of sources"
+        },
+        "14490": {
+          "name": "Organise and process information",
+          "text": "collect, compare and categorise facts and opinions found in a widening range of sources"
+        }
       }
     },
-    "Level 2": {
-      "14474": {
-        "name": "Pose questions",
-        "text": "pose questions to identify and clarify issues, and compare information in their world"
+    "Generating ideas, possibilities and actions": {
+      "Level 1": {
+        "14466": {
+          "name": "Imagine possibilities and connect ideas",
+          "text": "use imagination to view or create things in new ways and connect two things that seem different"
+        },
+        "14461": {
+          "name": "Consider alternatives",
+          "text": "suggest alternative and creative ways to approach a given situation or task"
+        },
+        "14460": {
+          "name": "Seek solutions and put ideas into action",
+          "text": "predict what might happen in a given situation and when putting ideas into action"
+        }
       },
-      "14475": {
-        "name": "Identify and clarify information and ideas",
-        "text": "identify and explore information and ideas from source materials"
+      "Level 2": {
+        "14468": {
+          "name": "Imagine possibilities and connect ideas",
+          "text": "build on what they know to create ideas and possibilities in ways that are new to them"
+        },
+        "14471": {
+          "name": "Consider alternatives",
+          "text": "identify and compare creative ideas to think broadly about a given situation or problem"
+        },
+        "14470": {
+          "name": "Seek solutions and put ideas into action",
+          "text": "investigate options and predict possible outcomes when putting ideas into action"
+        }
       },
-      "14473": {
-        "name": "Organise and process information",
-        "text": "organise information based on similar or relevant ideas from several sources"
-      },
-      "14468": {
-        "name": "Imagine possibilities and connect ideas",
-        "text": "build on what they know to create ideas and possibilities in ways that are new to them"
-      },
-      "14471": {
-        "name": "Consider alternatives",
-        "text": "identify and compare creative ideas to think broadly about a given situation or problem"
-      },
-      "14470": {
-        "name": "Seek solutions and put ideas into action",
-        "text": "investigate options and predict possible outcomes when putting ideas into action"
-      },
-      "14476": {
-        "name": "Think about thinking (metacognition)",
-        "text": "describe the thinking strategies used in given situations and tasks"
-      },
-      "14478": {
-        "name": "Reflect on processes",
-        "text": "outline the details and sequence in a whole task and separate it into workable parts"
-      },
-      "14469": {
-        "name": "Transfer knowledge into new contexts",
-        "text": "use information from a previous experience to inform a new idea"
-      },
-      "14477": {
-        "name": "Apply logic and reasoning",
-        "text": "identify reasoning used in choices or actions in specific situations"
-      },
-      "14467": {
-        "name": "Draw conclusions and design a course of action",
-        "text": "identify alternative courses of action or possible conclusions when presented with new information"
-      },
-      "14472": {
-        "name": "Evaluate procedures and outcomes",
-        "text": "evaluate whether they have accomplished what they set out to achieve"
+      "Level 3": {
+        "14487": {
+          "name": "Imagine possibilities and connect ideas",
+          "text": "expand on known ideas to create new and imaginative combinations"
+        },
+        "14486": {
+          "name": "Consider alternatives",
+          "text": "explore situations using creative thinking strategies to propose a range of alternatives"
+        },
+        "14484": {
+          "name": "Seek solutions and put ideas into action",
+          "text": "experiment with a range of options when seeking solutions and putting ideas into action"
+        }
       }
     },
-    "Level 3": {
-      "14481": {
-        "name": "Pose questions",
-        "text": "pose questions to expand their knowledge about the world"
+    "Reflecting on thinking and processes": {
+      "Level 1": {
+        "14455": {
+          "name": "Think about thinking (metacognition)",
+          "text": "describe what they are thinking and give reasons why"
+        },
+        "14464": {
+          "name": "Reflect on processes",
+          "text": "identify the main elements of the steps in a thinking process"
+        },
+        "14463": {
+          "name": "Transfer knowledge into new contexts",
+          "text": "connect information from one setting to another"
+        }
       },
-      "14489": {
-        "name": "Identify and clarify information and ideas",
-        "text": "identify main ideas and select and clarify information from a range of sources"
+      "Level 2": {
+        "14476": {
+          "name": "Think about thinking (metacognition)",
+          "text": "describe the thinking strategies used in given situations and tasks"
+        },
+        "14478": {
+          "name": "Reflect on processes",
+          "text": "outline the details and sequence in a whole task and separate it into workable parts"
+        },
+        "14469": {
+          "name": "Transfer knowledge into new contexts",
+          "text": "use information from a previous experience to inform a new idea"
+        }
       },
-      "14490": {
-        "name": "Organise and process information",
-        "text": "collect, compare and categorise facts and opinions found in a widening range of sources"
+      "Level 3": {
+        "14482": {
+          "name": "Think about thinking (metacognition)",
+          "text": "reflect on, explain and check the processes used to come to conclusions"
+        },
+        "14483": {
+          "name": "Reflect on processes",
+          "text": "identify pertinent information in an investigation and separate into smaller parts or ideas"
+        },
+        "14479": {
+          "name": "Transfer knowledge into new contexts",
+          "text": "transfer and apply information in one setting to enrich another"
+        }
       },
-      "14487": {
-        "name": "Imagine possibilities and connect ideas",
-        "text": "expand on known ideas to create new and imaginative combinations"
+      "Level 4": {
+        "14494": {
+          "name": "Think about thinking (metacognition)",
+          "text": "reflect on assumptions made, consider reasonable criticism and adjust their thinking if necessary"
+        },
+        "14491": {
+          "name": "Reflect on processes",
+          "text": "identify and justify the thinking behind choices they have made"
+        },
+        "14492": {
+          "name": "Transfer knowledge into new contexts",
+          "text": "apply knowledge gained from one context to another unrelated context and identify new meaning"
+        }
       },
-      "14486": {
-        "name": "Consider alternatives",
-        "text": "explore situations using creative thinking strategies to propose a range of alternatives"
+      "Level 5": {
+        "14514": {
+          "name": "Think about thinking (metacognition)",
+          "text": "assess assumptions in their thinking and invite alternative opinions"
+        },
+        "14510": {
+          "name": "Reflect on processes",
+          "text": "evaluate and justify the reasons behind choosing a particular problem-solving strategy"
+        },
+        "14511": {
+          "name": "Transfer knowledge into new contexts",
+          "text": "justify reasons for decisions when transferring information to similar and different contexts"
+        }
       },
-      "14484": {
-        "name": "Seek solutions and put ideas into action",
-        "text": "experiment with a range of options when seeking solutions and putting ideas into action"
-      },
-      "14482": {
-        "name": "Think about thinking (metacognition)",
-        "text": "reflect on, explain and check the processes used to come to conclusions"
-      },
-      "14483": {
-        "name": "Reflect on processes",
-        "text": "identify pertinent information in an investigation and separate into smaller parts or ideas"
-      },
-      "14479": {
-        "name": "Transfer knowledge into new contexts",
-        "text": "transfer and apply information in one setting to enrich another"
-      },
-      "14488": {
-        "name": "Apply logic and reasoning",
-        "text": "identify and apply appropriate reasoning and thinking strategies for particular outcomes"
-      },
-      "14480": {
-        "name": "Draw conclusions and design a course of action",
-        "text": "draw on prior knowledge and use evidence when choosing a course of action or drawing a conclusion"
-      },
-      "14485": {
-        "name": "Evaluate procedures and outcomes",
-        "text": "explain and justify ideas and outcomes"
+      "Level 6": {
+        "14515": {
+          "name": "Think about thinking (metacognition)",
+          "text": "give reasons to support their thinking, and address opposing viewpoints and possible weaknesses in their own positions"
+        },
+        "14522": {
+          "name": "Reflect on processes",
+          "text": "balance rational and irrational components of a complex or ambiguous problem to evaluate evidence"
+        },
+        "14516": {
+          "name": "Transfer knowledge into new contexts",
+          "text": "identify, plan and justify transference of knowledge to new contexts"
+        }
       }
     },
-    "Level 4": {
-      "14494": {
-        "name": "Think about thinking (metacognition)",
-        "text": "reflect on assumptions made, consider reasonable criticism and adjust their thinking if necessary"
+    "Analysing, synthesising and evaluating reasoning and procedures": {
+      "Level 1": {
+        "14465": {
+          "name": "Apply logic and reasoning",
+          "text": "identify the thinking used to solve problems in given situations"
+        },
+        "14456": {
+          "name": "Draw conclusions and design a course of action",
+          "text": "share their thinking about possible courses of action"
+        },
+        "14462": {
+          "name": "Evaluate procedures and outcomes",
+          "text": "check whether they are satisfied with the outcome of tasks or actions"
+        }
       },
-      "14491": {
-        "name": "Reflect on processes",
-        "text": "identify and justify the thinking behind choices they have made"
+      "Level 2": {
+        "14477": {
+          "name": "Apply logic and reasoning",
+          "text": "identify reasoning used in choices or actions in specific situations"
+        },
+        "14467": {
+          "name": "Draw conclusions and design a course of action",
+          "text": "identify alternative courses of action or possible conclusions when presented with new information"
+        },
+        "14472": {
+          "name": "Evaluate procedures and outcomes",
+          "text": "evaluate whether they have accomplished what they set out to achieve"
+        }
       },
-      "14492": {
-        "name": "Transfer knowledge into new contexts",
-        "text": "apply knowledge gained from one context to another unrelated context and identify new meaning"
-      }
-    },
-    "Level 5": {
-      "14514": {
-        "name": "Think about thinking (metacognition)",
-        "text": "assess assumptions in their thinking and invite alternative opinions"
-      },
-      "14510": {
-        "name": "Reflect on processes",
-        "text": "evaluate and justify the reasons behind choosing a particular problem-solving strategy"
-      },
-      "14511": {
-        "name": "Transfer knowledge into new contexts",
-        "text": "justify reasons for decisions when transferring information to similar and different contexts"
-      }
-    },
-    "Level 6": {
-      "14515": {
-        "name": "Think about thinking (metacognition)",
-        "text": "give reasons to support their thinking, and address opposing viewpoints and possible weaknesses in their own positions"
-      },
-      "14522": {
-        "name": "Reflect on processes",
-        "text": "balance rational and irrational components of a complex or ambiguous problem to evaluate evidence"
-      },
-      "14516": {
-        "name": "Transfer knowledge into new contexts",
-        "text": "identify, plan and justify transference of knowledge to new contexts"
+      "Level 3": {
+        "14488": {
+          "name": "Apply logic and reasoning",
+          "text": "identify and apply appropriate reasoning and thinking strategies for particular outcomes"
+        },
+        "14480": {
+          "name": "Draw conclusions and design a course of action",
+          "text": "draw on prior knowledge and use evidence when choosing a course of action or drawing a conclusion"
+        },
+        "14485": {
+          "name": "Evaluate procedures and outcomes",
+          "text": "explain and justify ideas and outcomes"
+        }
       }
     }
   }

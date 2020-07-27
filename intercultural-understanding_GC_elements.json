@@ -1,231 +1,261 @@
 {
   "intercultural-understanding": {
-    "Level 1": {
-      "14686": {
-        "name": "Investigate culture and cultural identity",
-        "text": "share ideas about self and belonging with peers"
+    "Recognising culture and developing respect": {
+      "Level 1": {
+        "14686": {
+          "name": "Investigate culture and cultural identity",
+          "text": "share ideas about self and belonging with peers"
+        },
+        "14685": {
+          "name": "Explore and compare cultural knowledge beliefs and practices",
+          "text": "identify, explore and compare culturally diverse activities and objects"
+        },
+        "14688": {
+          "name": "Develop respect for cultural diversity",
+          "text": "discuss ideas about cultural diversity in local contexts"
+        }
       },
-      "14685": {
-        "name": "Explore and compare cultural knowledge beliefs and practices",
-        "text": "identify, explore and compare culturally diverse activities and objects"
+      "Level 2": {
+        "14695": {
+          "name": "Investigate culture and cultural identity",
+          "text": "identify and describe the various groups to which they belong and the ways people act and communicate within them"
+        },
+        "14692": {
+          "name": "Explore and compare cultural knowledge beliefs and practices",
+          "text": "describe and compare the way they live with people in other places or times"
+        },
+        "14698": {
+          "name": "Develop respect for cultural diversity",
+          "text": "describe ways that diversity presents opportunities for new experiences and understandings"
+        }
       },
-      "14688": {
-        "name": "Develop respect for cultural diversity",
-        "text": "discuss ideas about cultural diversity in local contexts"
+      "Level 3": {
+        "14702": {
+          "name": "Investigate culture and cultural identity",
+          "text": "identify and describe variability within and across cultural groups"
+        },
+        "14706": {
+          "name": "Explore and compare cultural knowledge beliefs and practices",
+          "text": "describe and compare a range of cultural stories, events and artefacts"
+        },
+        "14701": {
+          "name": "Develop respect for cultural diversity",
+          "text": "identify and discuss the significance of a range of cultural events, artefacts or stories recognised in the school, community or nation"
+        }
       },
-      "14684": {
-        "name": "Communicate across cultures",
-        "text": "recognise that people use different languages to communicate"
+      "Level 4": {
+        "14713": {
+          "name": "Investigate culture and cultural identity",
+          "text": "identify and describe the roles that culture and language play in shaping group and national identities"
+        },
+        "14710": {
+          "name": "Explore and compare cultural knowledge beliefs and practices",
+          "text": "describe and compare the knowledge, beliefs and practices of various cultural groups in relation to a specific time, event or custom"
+        },
+        "14708": {
+          "name": "Develop respect for cultural diversity",
+          "text": "discuss opportunities that cultural diversity offers within Australia and the Asia-Pacific region"
+        }
       },
-      "14681": {
-        "name": "Consider and develop multiple perspectives",
-        "text": "express their opinions and listen to the opinions of others in given situations"
+      "Level 5": {
+        "14722": {
+          "name": "Investigate culture and cultural identity",
+          "text": "explain ways that cultural groups and identities change over time and in different contexts"
+        },
+        "14725": {
+          "name": "Explore and compare cultural knowledge beliefs and practices",
+          "text": "analyse the dynamic nature of cultural knowledge, beliefs and practices in a range of personal, social and historical contexts"
+        },
+        "14719": {
+          "name": "Develop respect for cultural diversity",
+          "text": "understand the importance of maintaining and celebrating cultural traditions for the development of personal, group and national identities"
+        }
       },
-      "14687": {
-        "name": "Empathise with others",
-        "text": "imagine and describe their own feelings if they were put in someone else\u2019s place"
-      },
-      "14683": {
-        "name": "Reflect on intercultural experiences",
-        "text": "identify and describe memorable intercultural experiences"
-      },
-      "14689": {
-        "name": "Challenge stereotypes and prejudices",
-        "text": "identify examples of the acceptance and inclusion of others in given situations"
-      },
-      "14682": {
-        "name": "Mediate cultural difference",
-        "text": "identify similarities and differences between themselves and their peers"
+      "Level 6": {
+        "14729": {
+          "name": "Investigate culture and cultural identity",
+          "text": "analyse how membership of local, regional, national and international groups shapes identities including their own"
+        },
+        "14728": {
+          "name": "Explore and compare cultural knowledge beliefs and practices",
+          "text": "critically analyse the complex and dynamic nature of knowledge, beliefs and practices in a wide range of contexts over time"
+        },
+        "14726": {
+          "name": "Develop respect for cultural diversity",
+          "text": "understand the importance of mutual respect in promoting cultural exchange and collaboration in an interconnected world"
+        }
       }
     },
-    "Level 2": {
-      "14695": {
-        "name": "Investigate culture and cultural identity",
-        "text": "identify and describe the various groups to which they belong and the ways people act and communicate within them"
+    "Interacting and empathising with others": {
+      "Level 1": {
+        "14684": {
+          "name": "Communicate across cultures",
+          "text": "recognise that people use different languages to communicate"
+        },
+        "14681": {
+          "name": "Consider and develop multiple perspectives",
+          "text": "express their opinions and listen to the opinions of others in given situations"
+        },
+        "14687": {
+          "name": "Empathise with others",
+          "text": "imagine and describe their own feelings if they were put in someone else\u2019s place"
+        }
       },
-      "14692": {
-        "name": "Explore and compare cultural knowledge beliefs and practices",
-        "text": "describe and compare the way they live with people in other places or times"
+      "Level 2": {
+        "14690": {
+          "name": "Communicate across cultures",
+          "text": "describe how the use of words and body language in interactions may have different meanings for various cultural groups"
+        },
+        "14696": {
+          "name": "Consider and develop multiple perspectives",
+          "text": "express their own perspectives on familiar topics and texts, and identify the perspectives of others"
+        },
+        "14693": {
+          "name": "Empathise with others",
+          "text": "imagine and describe the feelings of others in familiar situations"
+        }
       },
-      "14698": {
-        "name": "Develop respect for cultural diversity",
-        "text": "describe ways that diversity presents opportunities for new experiences and understandings"
+      "Level 3": {
+        "14703": {
+          "name": "Communicate across cultures",
+          "text": "recognise there are similarities and differences in the ways people communicate, both within and across cultural groups"
+        },
+        "14700": {
+          "name": "Consider and develop multiple perspectives",
+          "text": "identify and describe shared perspectives within and across various cultural groups"
+        },
+        "14699": {
+          "name": "Empathise with others",
+          "text": "imagine and describe the feelings of others in a range of contexts"
+        }
       },
-      "14690": {
-        "name": "Communicate across cultures",
-        "text": "describe how the use of words and body language in interactions may have different meanings for various cultural groups"
+      "Level 4": {
+        "14716": {
+          "name": "Communicate across cultures",
+          "text": "identify factors that contribute to understanding in intercultural communication and discuss some strategies to avoid misunderstanding"
+        },
+        "14715": {
+          "name": "Consider and develop multiple perspectives",
+          "text": "explain perspectives that differ to expand their understanding of an issue"
+        },
+        "14712": {
+          "name": "Empathise with others",
+          "text": "imagine and describe the situations of others in local, national and global contexts"
+        }
       },
-      "14696": {
-        "name": "Consider and develop multiple perspectives",
-        "text": "express their own perspectives on familiar topics and texts, and identify the perspectives of others"
+      "Level 5": {
+        "14720": {
+          "name": "Communicate across cultures",
+          "text": "explore ways that culture shapes the use of language in a wide range of contexts"
+        },
+        "14717": {
+          "name": "Consider and develop multiple perspectives",
+          "text": "assess diverse perspectives and the assumptions on which they are based"
+        },
+        "14718": {
+          "name": "Empathise with others",
+          "text": "imagine and describe the feelings and motivations of people in challenging situations"
+        }
       },
-      "14693": {
-        "name": "Empathise with others",
-        "text": "imagine and describe the feelings of others in familiar situations"
-      },
-      "14694": {
-        "name": "Reflect on intercultural experiences",
-        "text": "identify and describe what they have learnt about others from intercultural encounters and culturally diverse texts"
-      },
-      "14697": {
-        "name": "Challenge stereotypes and prejudices",
-        "text": "discuss the effects of acceptance and inclusion in familiar situations"
-      },
-      "14691": {
-        "name": "Mediate cultural difference",
-        "text": "recognise that cultural differences may affect understanding between people"
+      "Level 6": {
+        "14733": {
+          "name": "Communicate across cultures",
+          "text": "analyse the complex relationship between language, thought and context to understand and enhance communication"
+        },
+        "14732": {
+          "name": "Consider and develop multiple perspectives",
+          "text": "present a balanced view on issues where conflicting views cannot easily be resolved"
+        },
+        "14734": {
+          "name": "Empathise with others",
+          "text": "recognise the effect that empathising with others has on their own feelings, motivations and actions"
+        }
       }
     },
-    "Level 3": {
-      "14702": {
-        "name": "Investigate culture and cultural identity",
-        "text": "identify and describe variability within and across cultural groups"
+    "Reflecting on intercultural experiences and taking responsibility": {
+      "Level 1": {
+        "14683": {
+          "name": "Reflect on intercultural experiences",
+          "text": "identify and describe memorable intercultural experiences"
+        },
+        "14689": {
+          "name": "Challenge stereotypes and prejudices",
+          "text": "identify examples of the acceptance and inclusion of others in given situations"
+        },
+        "14682": {
+          "name": "Mediate cultural difference",
+          "text": "identify similarities and differences between themselves and their peers"
+        }
       },
-      "14706": {
-        "name": "Explore and compare cultural knowledge beliefs and practices",
-        "text": "describe and compare a range of cultural stories, events and artefacts"
+      "Level 2": {
+        "14694": {
+          "name": "Reflect on intercultural experiences",
+          "text": "identify and describe what they have learnt about others from intercultural encounters and culturally diverse texts"
+        },
+        "14697": {
+          "name": "Challenge stereotypes and prejudices",
+          "text": "discuss the effects of acceptance and inclusion in familiar situations"
+        },
+        "14691": {
+          "name": "Mediate cultural difference",
+          "text": "recognise that cultural differences may affect understanding between people"
+        }
       },
-      "14701": {
-        "name": "Develop respect for cultural diversity",
-        "text": "identify and discuss the significance of a range of cultural events, artefacts or stories recognised in the school, community or nation"
+      "Level 3": {
+        "14705": {
+          "name": "Reflect on intercultural experiences",
+          "text": "identify and describe what they have learnt about themselves and others from real, virtual and vicarious intercultural experiences"
+        },
+        "14704": {
+          "name": "Challenge stereotypes and prejudices",
+          "text": "explain the dangers of making generalisations about individuals and groups"
+        },
+        "14707": {
+          "name": "Mediate cultural difference",
+          "text": "identify ways of reaching understanding between culturally diverse groups"
+        }
       },
-      "14703": {
-        "name": "Communicate across cultures",
-        "text": "recognise there are similarities and differences in the ways people communicate, both within and across cultural groups"
+      "Level 4": {
+        "14711": {
+          "name": "Reflect on intercultural experiences",
+          "text": "explain what and how they have learnt from a wide range of intercultural interactions and experiences"
+        },
+        "14714": {
+          "name": "Challenge stereotypes and prejudices",
+          "text": "explain the impact of stereotypes and prejudices on individuals and groups within Australia"
+        },
+        "14709": {
+          "name": "Mediate cultural difference",
+          "text": "discuss ways of reconciling differing cultural values and perspectives in addressing common concerns"
+        }
       },
-      "14700": {
-        "name": "Consider and develop multiple perspectives",
-        "text": "identify and describe shared perspectives within and across various cultural groups"
+      "Level 5": {
+        "14723": {
+          "name": "Reflect on intercultural experiences",
+          "text": "reflect critically on the representation of various cultural groups in texts and the media and how they respond"
+        },
+        "14724": {
+          "name": "Challenge stereotypes and prejudices",
+          "text": "identify and challenge stereotypes and prejudices in the representation of group, national and regional identities"
+        },
+        "14721": {
+          "name": "Mediate cultural difference",
+          "text": "identify and address challenging issues in ways that respect cultural diversity and the right of all to be heard"
+        }
       },
-      "14699": {
-        "name": "Empathise with others",
-        "text": "imagine and describe the feelings of others in a range of contexts"
-      },
-      "14705": {
-        "name": "Reflect on intercultural experiences",
-        "text": "identify and describe what they have learnt about themselves and others from real, virtual and vicarious intercultural experiences"
-      },
-      "14704": {
-        "name": "Challenge stereotypes and prejudices",
-        "text": "explain the dangers of making generalisations about individuals and groups"
-      },
-      "14707": {
-        "name": "Mediate cultural difference",
-        "text": "identify ways of reaching understanding between culturally diverse groups"
-      }
-    },
-    "Level 4": {
-      "14713": {
-        "name": "Investigate culture and cultural identity",
-        "text": "identify and describe the roles that culture and language play in shaping group and national identities"
-      },
-      "14710": {
-        "name": "Explore and compare cultural knowledge beliefs and practices",
-        "text": "describe and compare the knowledge, beliefs and practices of various cultural groups in relation to a specific time, event or custom"
-      },
-      "14708": {
-        "name": "Develop respect for cultural diversity",
-        "text": "discuss opportunities that cultural diversity offers within Australia and the Asia-Pacific region"
-      },
-      "14716": {
-        "name": "Communicate across cultures",
-        "text": "identify factors that contribute to understanding in intercultural communication and discuss some strategies to avoid misunderstanding"
-      },
-      "14715": {
-        "name": "Consider and develop multiple perspectives",
-        "text": "explain perspectives that differ to expand their understanding of an issue"
-      },
-      "14712": {
-        "name": "Empathise with others",
-        "text": "imagine and describe the situations of others in local, national and global contexts"
-      },
-      "14711": {
-        "name": "Reflect on intercultural experiences",
-        "text": "explain what and how they have learnt from a wide range of intercultural interactions and experiences"
-      },
-      "14714": {
-        "name": "Challenge stereotypes and prejudices",
-        "text": "explain the impact of stereotypes and prejudices on individuals and groups within Australia"
-      },
-      "14709": {
-        "name": "Mediate cultural difference",
-        "text": "discuss ways of reconciling differing cultural values and perspectives in addressing common concerns"
-      }
-    },
-    "Level 5": {
-      "14722": {
-        "name": "Investigate culture and cultural identity",
-        "text": "explain ways that cultural groups and identities change over time and in different contexts"
-      },
-      "14725": {
-        "name": "Explore and compare cultural knowledge beliefs and practices",
-        "text": "analyse the dynamic nature of cultural knowledge, beliefs and practices in a range of personal, social and historical contexts"
-      },
-      "14719": {
-        "name": "Develop respect for cultural diversity",
-        "text": "understand the importance of maintaining and celebrating cultural traditions for the development of personal, group and national identities"
-      },
-      "14720": {
-        "name": "Communicate across cultures",
-        "text": "explore ways that culture shapes the use of language in a wide range of contexts"
-      },
-      "14717": {
-        "name": "Consider and develop multiple perspectives",
-        "text": "assess diverse perspectives and the assumptions on which they are based"
-      },
-      "14718": {
-        "name": "Empathise with others",
-        "text": "imagine and describe the feelings and motivations of people in challenging situations"
-      },
-      "14723": {
-        "name": "Reflect on intercultural experiences",
-        "text": "reflect critically on the representation of various cultural groups in texts and the media and how they respond"
-      },
-      "14724": {
-        "name": "Challenge stereotypes and prejudices",
-        "text": "identify and challenge stereotypes and prejudices in the representation of group, national and regional identities"
-      },
-      "14721": {
-        "name": "Mediate cultural difference",
-        "text": "identify and address challenging issues in ways that respect cultural diversity and the right of all to be heard"
-      }
-    },
-    "Level 6": {
-      "14729": {
-        "name": "Investigate culture and cultural identity",
-        "text": "analyse how membership of local, regional, national and international groups shapes identities including their own"
-      },
-      "14728": {
-        "name": "Explore and compare cultural knowledge beliefs and practices",
-        "text": "critically analyse the complex and dynamic nature of knowledge, beliefs and practices in a wide range of contexts over time"
-      },
-      "14726": {
-        "name": "Develop respect for cultural diversity",
-        "text": "understand the importance of mutual respect in promoting cultural exchange and collaboration in an interconnected world"
-      },
-      "14733": {
-        "name": "Communicate across cultures",
-        "text": "analyse the complex relationship between language, thought and context to understand and enhance communication"
-      },
-      "14732": {
-        "name": "Consider and develop multiple perspectives",
-        "text": "present a balanced view on issues where conflicting views cannot easily be resolved"
-      },
-      "14734": {
-        "name": "Empathise with others",
-        "text": "recognise the effect that empathising with others has on their own feelings, motivations and actions"
-      },
-      "14727": {
-        "name": "Reflect on intercultural experiences",
-        "text": "reflect critically on the effect of intercultural experiences on their own attitudes and beliefs and those of others"
-      },
-      "14731": {
-        "name": "Challenge stereotypes and prejudices",
-        "text": "critique the use of stereotypes and prejudices in texts and issues concerning specific cultural groups at national, regional and global levels"
-      },
-      "14730": {
-        "name": "Mediate cultural difference",
-        "text": "recognise the challenges and benefits of living and working in a culturally diverse society and the role that cultural mediation plays in learning to live together"
+      "Level 6": {
+        "14727": {
+          "name": "Reflect on intercultural experiences",
+          "text": "reflect critically on the effect of intercultural experiences on their own attitudes and beliefs and those of others"
+        },
+        "14731": {
+          "name": "Challenge stereotypes and prejudices",
+          "text": "critique the use of stereotypes and prejudices in texts and issues concerning specific cultural groups at national, regional and global levels"
+        },
+        "14730": {
+          "name": "Mediate cultural difference",
+          "text": "recognise the challenges and benefits of living and working in a culturally diverse society and the role that cultural mediation plays in learning to live together"
+        }
       }
     }
   }

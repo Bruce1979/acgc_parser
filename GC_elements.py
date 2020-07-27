@@ -55,10 +55,13 @@ def parse_html(html, capability_name, capability_elements):
         sub_element_text = sub_element.next_sibling.next_sibling.get_text().strip()
         if capability_name not in results:
           results[capability_name] = {}
-        if level_name not in results[capability_name]:
-          results[capability_name][level_name] = {}
-        results[capability_name][level_name][sub_element_id] = {
-          'name': sub_element_name,
+        if element_name not in results[capability_name]:
+          results[capability_name][element_name] = {}
+        if sub_element_name not in results[capability_name][element_name]:
+          results[capability_name][element_name][sub_element_name] = {}
+        if level_name not in results[capability_name][element_name][sub_element_name]:
+          results[capability_name][element_name][sub_element_name][level_name] = {}
+        results[capability_name][element_name][sub_element_name][level_name][sub_element_id] = {
           'text': sub_element_text,
         }
 

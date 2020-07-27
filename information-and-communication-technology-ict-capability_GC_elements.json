@@ -1,351 +1,409 @@
 {
   "information-and-communication-technology-ict-capability": {
-    "Level 1": {
-      "14372": {
-        "name": "Recognise intellectual property",
-        "text": "recognise ownership over their own digital work"
+    "Applying social and ethical protocols and practices when using ICT": {
+      "Level 1": {
+        "14372": {
+          "name": "Recognise intellectual property",
+          "text": "recognise ownership over their own digital work"
+        },
+        "14384": {
+          "name": "Apply digital information security practices",
+          "text": "follow class rules about using digital information"
+        },
+        "14371": {
+          "name": "Apply personal security protocols",
+          "text": "follow class rules when sharing personal information with known audiences and demonstrate an awareness of applying social protocols when using ICT to communicate"
+        },
+        "14382": {
+          "name": "Identify the impacts of ICT in society",
+          "text": "identify how they use ICT in multiple ways on multiple devices"
+        }
       },
-      "14384": {
-        "name": "Apply digital information security practices",
-        "text": "follow class rules about using digital information"
+      "Level 2": {
+        "14398": {
+          "name": "Recognise intellectual property",
+          "text": "recognise ownership of digital products that others produce and that what they create or provide can be used or misused by others"
+        },
+        "14388": {
+          "name": "Apply digital information security practices",
+          "text": "follow class rules about applying selected standard guidelines and techniques to secure digital information"
+        },
+        "14393": {
+          "name": "Apply personal security protocols",
+          "text": "follow class guidelines when sharing personal information and apply basic social protocols when using ICT to communicate with known audiences"
+        },
+        "14389": {
+          "name": "Identify the impacts of ICT in society",
+          "text": "identify how ICT is used at home and at school"
+        }
       },
-      "14371": {
-        "name": "Apply personal security protocols",
-        "text": "follow class rules when sharing personal information with known audiences and demonstrate an awareness of applying social protocols when using ICT to communicate"
+      "Level 3": {
+        "14404": {
+          "name": "Recognise intellectual property",
+          "text": "acknowledge when they use digital products created by someone else, and start to indicate the source"
+        },
+        "14403": {
+          "name": "Apply digital information security practices",
+          "text": "independently apply standard guidelines and techniques for particular digital systems to secure digital information"
+        },
+        "14408": {
+          "name": "Apply personal security protocols",
+          "text": "apply standard guidelines and take action to avoid the common dangers to personal security when using ICT and apply appropriate basic social protocols when using ICT to communicate with unknown audiences"
+        },
+        "14410": {
+          "name": "Identify the impacts of ICT in society",
+          "text": "identify the value and role of ICT use at home and school"
+        }
       },
-      "14382": {
-        "name": "Identify the impacts of ICT in society",
-        "text": "identify how they use ICT in multiple ways on multiple devices"
+      "Level 4": {
+        "14422": {
+          "name": "Recognise intellectual property",
+          "text": "identify the legal obligations regarding the ownership and use of digital products and apply some referencing conventions"
+        },
+        "14424": {
+          "name": "Apply digital information security practices",
+          "text": "independently apply strategies for determining and protecting the security of digital information and assess the risks associated with online environments"
+        },
+        "14426": {
+          "name": "Apply personal security protocols",
+          "text": "identify the risks to identity, privacy and emotional safety for themselves when using ICT and apply generally accepted social protocols when sharing information in online environments, taking into account different social and cultural contexts"
+        },
+        "14413": {
+          "name": "Identify the impacts of ICT in society",
+          "text": "explain the main uses of ICT at school, home and in the local community, and recognise its potential positive and negative impacts on their lives"
+        }
       },
-      "14374": {
-        "name": "Define and plan information searches",
-        "text": "use ICT to identify where information is located"
+      "Level 5": {
+        "14431": {
+          "name": "Recognise intellectual property",
+          "text": "apply practices that comply with legal obligations regarding the ownership and use of digital products resources"
+        },
+        "14430": {
+          "name": "Apply digital information security practices",
+          "text": "independently apply strategies for determining the appropriate type of digital information suited to the location of storage and adequate security for online environments"
+        },
+        "14432": {
+          "name": "Apply personal security protocols",
+          "text": "identify and value the rights to identity, privacy and emotional safety for themselves and others when using ICT and apply generally accepted social protocols when using ICT to collaborate with local and global communities"
+        },
+        "14428": {
+          "name": "Identify the impacts of ICT in society",
+          "text": "explain the benefits and risks of the use of ICT for particular people in work and home environments"
+        }
       },
-      "14380": {
-        "name": "Locate generate and access data and information",
-        "text": "use icons to locate or generate required information"
-      },
-      "14377": {
-        "name": "Select and evaluate data and information",
-        "text": "explain how located data or information was used"
-      },
-      "14379": {
-        "name": "Generate ideas plans and processes",
-        "text": "use ICT to follow or contribute to a simple plan for a solution"
-      },
-      "14383": {
-        "name": "Generate solutions to challenges and learning area tasks",
-        "text": "use ICT as a creative tool to generate simple solutions, modifications or data representations for personal or school purposes"
-      },
-      "14373": {
-        "name": "Collaborate share and exchange",
-        "text": "use purposefully selected ICT tools safely to view information shared by trusted adults"
-      },
-      "14375": {
-        "name": "Understand computer mediated communications",
-        "text": "understand that messages are recorded, viewed or sent in computer mediated communications for others to receive"
-      },
-      "14378": {
-        "name": "Select and use hardware and software",
-        "text": "identify and safely operate ICT systems to complete relevant simple specified tasks and seek help when encountering a problem"
-      },
-      "14376": {
-        "name": "Understand ICT systems",
-        "text": "identify common consumer ICT systems with input and output functions"
-      },
-      "14381": {
-        "name": "Manage digital data",
-        "text": "save and retrieve digital data with support"
+      "Level 6": {
+        "14450": {
+          "name": "Recognise intellectual property",
+          "text": "identify and describe ethical dilemmas and consciously apply practices that protect intellectual property"
+        },
+        "14453": {
+          "name": "Apply digital information security practices",
+          "text": "use a range of strategies for securing and protecting information, assess the risks associated with online environments and establish appropriate security strategies and codes of conduct"
+        },
+        "14454": {
+          "name": "Apply personal security protocols",
+          "text": "independently apply appropriate strategies to protect rights, identity, privacy and emotional safety of others when using ICT, and discriminate between protocols suitable for different communication tools when collaborating with local and global communities"
+        },
+        "14451": {
+          "name": "Identify the impacts of ICT in society",
+          "text": "assess the impact of ICT in the workplace and in society, and speculate on its role in the future and how they can influence its use"
+        }
       }
     },
-    "Level 2": {
-      "14398": {
-        "name": "Recognise intellectual property",
-        "text": "recognise ownership of digital products that others produce and that what they create or provide can be used or misused by others"
+    "Investigating with ICT": {
+      "Level 1": {
+        "14374": {
+          "name": "Define and plan information searches",
+          "text": "use ICT to identify where information is located"
+        },
+        "14380": {
+          "name": "Locate generate and access data and information",
+          "text": "use icons to locate or generate required information"
+        },
+        "14377": {
+          "name": "Select and evaluate data and information",
+          "text": "explain how located data or information was used"
+        }
       },
-      "14388": {
-        "name": "Apply digital information security practices",
-        "text": "follow class rules about applying selected standard guidelines and techniques to secure digital information"
+      "Level 2": {
+        "14394": {
+          "name": "Define and plan information searches",
+          "text": "use ICT to identify, record and classify textual and graphic information to show what is known and what needs to be investigated"
+        },
+        "14396": {
+          "name": "Select and evaluate data and information",
+          "text": "explain the usefulness of located data or information"
+        },
+        "14395": {
+          "name": "Locate generate and access data and information",
+          "text": "locate information from a given set of digital sources"
+        }
       },
-      "14393": {
-        "name": "Apply personal security protocols",
-        "text": "follow class guidelines when sharing personal information and apply basic social protocols when using ICT to communicate with known audiences"
+      "Level 3": {
+        "14409": {
+          "name": "Define and plan information searches",
+          "text": "use ICT to plan an information search or generation of information, recognising some pattern within the information,"
+        },
+        "14407": {
+          "name": "Select and evaluate data and information",
+          "text": "explain why located data or information was selected"
+        },
+        "14401": {
+          "name": "Locate generate and access data and information",
+          "text": "locate, retrieve or generate information from a range of digital sources"
+        }
       },
-      "14389": {
-        "name": "Identify the impacts of ICT in society",
-        "text": "identify how ICT is used at home and at school"
+      "Level 4": {
+        "14420": {
+          "name": "Define and plan information searches",
+          "text": "use a range of ICT to identify and represent patterns in sets of information and to pose questions to guide searching for, or generating, further information"
+        },
+        "14419": {
+          "name": "Select and evaluate data and information",
+          "text": "assess the suitability of data or information using a range of appropriate given criteria"
+        },
+        "14417": {
+          "name": "Locate generate and access data and information",
+          "text": "locate, retrieve or generate information using search engines and simple search functions and classify information in meaningful ways"
+        }
       },
-      "14394": {
-        "name": "Define and plan information searches",
-        "text": "use ICT to identify, record and classify textual and graphic information to show what is known and what needs to be investigated"
+      "Level 5": {
+        "14427": {
+          "name": "Define and plan information searches",
+          "text": "use a range of ICT to analyse information in terms of implicit patterns and structures as a basis to plan an information search or generation"
+        },
+        "14439": {
+          "name": "Select and evaluate data and information",
+          "text": "assess the suitability of data or information using appropriate own criteria"
+        },
+        "14434": {
+          "name": "Locate generate and access data and information",
+          "text": "locate, retrieve or generate information using search facilities and organise information in meaningful ways"
+        }
       },
-      "14396": {
-        "name": "Select and evaluate data and information",
-        "text": "explain the usefulness of located data or information"
-      },
-      "14395": {
-        "name": "Locate generate and access data and information",
-        "text": "locate information from a given set of digital sources"
-      },
-      "14391": {
-        "name": "Generate ideas plans and processes",
-        "text": "use ICT to prepare simple plans to find solutions or answers to questions"
-      },
-      "14392": {
-        "name": "Generate solutions to challenges and learning area tasks",
-        "text": "experiment with ICT as a creative tool to generate simple solutions, modifications or data representations for particular audiences or purposes"
-      },
-      "14387": {
-        "name": "Collaborate share and exchange",
-        "text": "use purposefully selected ICT tools safely to share and exchange information with appropriate local audiences"
-      },
-      "14385": {
-        "name": "Understand computer mediated communications",
-        "text": "understand that computer mediated communications may be received later by the receiver"
-      },
-      "14397": {
-        "name": "Select and use hardware and software",
-        "text": "identify and safely operate a selected range of appropriate devices, software, functions and commands when operating an ICT system and attempt to solve a problem before seeking help"
-      },
-      "14386": {
-        "name": "Understand ICT systems",
-        "text": "identify the main components of common consumer ICT systems, their fundamental functions, and describe them using basic ICT terminology"
-      },
-      "14390": {
-        "name": "Manage digital data",
-        "text": "manage and maintain digital data with guidance"
+      "Level 6": {
+        "14446": {
+          "name": "Define and plan information searches",
+          "text": "select and use a range of ICT independently and collaboratively, analyse information to frame questions and plan search strategies or data generation"
+        },
+        "14442": {
+          "name": "Select and evaluate data and information",
+          "text": "develop and use criteria systematically to evaluate the quality, suitability and credibility of located data or information and sources"
+        },
+        "14447": {
+          "name": "Locate generate and access data and information",
+          "text": "use advanced search tools and techniques or simulations and digital models to locate or generate precise data and information that supports the development of new understandings"
+        }
       }
     },
-    "Level 3": {
-      "14404": {
-        "name": "Recognise intellectual property",
-        "text": "acknowledge when they use digital products created by someone else, and start to indicate the source"
+    "Creating with ICT": {
+      "Level 1": {
+        "14379": {
+          "name": "Generate ideas plans and processes",
+          "text": "use ICT to follow or contribute to a simple plan for a solution"
+        },
+        "14383": {
+          "name": "Generate solutions to challenges and learning area tasks",
+          "text": "use ICT as a creative tool to generate simple solutions, modifications or data representations for personal or school purposes"
+        }
       },
-      "14403": {
-        "name": "Apply digital information security practices",
-        "text": "independently apply standard guidelines and techniques for particular digital systems to secure digital information"
+      "Level 2": {
+        "14391": {
+          "name": "Generate ideas plans and processes",
+          "text": "use ICT to prepare simple plans to find solutions or answers to questions"
+        },
+        "14392": {
+          "name": "Generate solutions to challenges and learning area tasks",
+          "text": "experiment with ICT as a creative tool to generate simple solutions, modifications or data representations for particular audiences or purposes"
+        }
       },
-      "14408": {
-        "name": "Apply personal security protocols",
-        "text": "apply standard guidelines and take action to avoid the common dangers to personal security when using ICT and apply appropriate basic social protocols when using ICT to communicate with unknown audiences"
+      "Level 3": {
+        "14412": {
+          "name": "Generate ideas plans and processes",
+          "text": "use ICT to generate ideas and plan solutions"
+        },
+        "14399": {
+          "name": "Generate solutions to challenges and learning area tasks",
+          "text": "create and modify simple digital solutions, creative outputs or data representation/transformation for particular purposes"
+        }
       },
-      "14410": {
-        "name": "Identify the impacts of ICT in society",
-        "text": "identify the value and role of ICT use at home and school"
+      "Level 4": {
+        "14416": {
+          "name": "Generate ideas plans and processes",
+          "text": "use ICT effectively to record ideas, represent thinking and plan solutions"
+        },
+        "14423": {
+          "name": "Generate solutions to challenges and learning area tasks",
+          "text": "independently or collaboratively create and modify digital solutions, creative outputs or data representation/transformation for particular audiences and purposes"
+        }
       },
-      "14409": {
-        "name": "Define and plan information searches",
-        "text": "use ICT to plan an information search or generation of information, recognising some pattern within the information,"
+      "Level 5": {
+        "14433": {
+          "name": "Generate ideas plans and processes",
+          "text": "use appropriate ICT to collaboratively generate ideas and develop plans"
+        },
+        "14429": {
+          "name": "Generate solutions to challenges and learning area tasks",
+          "text": "design and modify simple digital solutions, or multimodal creative outputs or data transformations for particular audiences and purposes following recognised conventions"
+        }
       },
-      "14407": {
-        "name": "Select and evaluate data and information",
-        "text": "explain why located data or information was selected"
-      },
-      "14401": {
-        "name": "Locate generate and access data and information",
-        "text": "locate, retrieve or generate information from a range of digital sources"
-      },
-      "14412": {
-        "name": "Generate ideas plans and processes",
-        "text": "use ICT to generate ideas and plan solutions"
-      },
-      "14399": {
-        "name": "Generate solutions to challenges and learning area tasks",
-        "text": "create and modify simple digital solutions, creative outputs or data representation/transformation for particular purposes"
-      },
-      "14400": {
-        "name": "Collaborate share and exchange",
-        "text": "use appropriate ICT tools safely to share and exchange information with appropriate known audiences"
-      },
-      "14405": {
-        "name": "Understand computer mediated communications",
-        "text": "understand that computer mediated communications are directed to an audience for a purpose"
-      },
-      "14402": {
-        "name": "Select and use hardware and software",
-        "text": "identify and independently operate a range of devices, software, functions and commands, taking into consideration ergonomics when operating appropriate ICT systems, and seek solutions when encountering a problem"
-      },
-      "14411": {
-        "name": "Understand ICT systems",
-        "text": "identify and compare the use of the main components of different ICT systems"
-      },
-      "14406": {
-        "name": "Manage digital data",
-        "text": "manage and maintain digital data using common methods"
+      "Level 6": {
+        "14452": {
+          "name": "Generate ideas plans and processes",
+          "text": "select and use ICT to articulate ideas and concepts, and plan the development of complex solutions"
+        },
+        "14449": {
+          "name": "Generate solutions to challenges and learning area tasks",
+          "text": "Design, modify and manage complex digital solutions, or multimodal creative outputs or data transformations for a range of audiences and purposes"
+        }
       }
     },
-    "Level 4": {
-      "14422": {
-        "name": "Recognise intellectual property",
-        "text": "identify the legal obligations regarding the ownership and use of digital products and apply some referencing conventions"
+    "Communicating with ICT": {
+      "Level 1": {
+        "14373": {
+          "name": "Collaborate share and exchange",
+          "text": "use purposefully selected ICT tools safely to view information shared by trusted adults"
+        },
+        "14375": {
+          "name": "Understand computer mediated communications",
+          "text": "understand that messages are recorded, viewed or sent in computer mediated communications for others to receive"
+        }
       },
-      "14424": {
-        "name": "Apply digital information security practices",
-        "text": "independently apply strategies for determining and protecting the security of digital information and assess the risks associated with online environments"
+      "Level 2": {
+        "14387": {
+          "name": "Collaborate share and exchange",
+          "text": "use purposefully selected ICT tools safely to share and exchange information with appropriate local audiences"
+        },
+        "14385": {
+          "name": "Understand computer mediated communications",
+          "text": "understand that computer mediated communications may be received later by the receiver"
+        }
       },
-      "14426": {
-        "name": "Apply personal security protocols",
-        "text": "identify the risks to identity, privacy and emotional safety for themselves when using ICT and apply generally accepted social protocols when sharing information in online environments, taking into account different social and cultural contexts"
+      "Level 3": {
+        "14400": {
+          "name": "Collaborate share and exchange",
+          "text": "use appropriate ICT tools safely to share and exchange information with appropriate known audiences"
+        },
+        "14405": {
+          "name": "Understand computer mediated communications",
+          "text": "understand that computer mediated communications are directed to an audience for a purpose"
+        }
       },
-      "14413": {
-        "name": "Identify the impacts of ICT in society",
-        "text": "explain the main uses of ICT at school, home and in the local community, and recognise its potential positive and negative impacts on their lives"
+      "Level 4": {
+        "14415": {
+          "name": "Collaborate share and exchange",
+          "text": "select and use appropriate ICT tools safely to share and exchange information and to safely collaborate with others"
+        },
+        "14421": {
+          "name": "Understand computer mediated communications",
+          "text": "understand that particular forms of computer mediated communications and tools are suited to synchronous or asynchronous and one-to-one or group communications"
+        }
       },
-      "14420": {
-        "name": "Define and plan information searches",
-        "text": "use a range of ICT to identify and represent patterns in sets of information and to pose questions to guide searching for, or generating, further information"
+      "Level 5": {
+        "14436": {
+          "name": "Collaborate share and exchange",
+          "text": "select and use appropriate ICT tools safely to lead groups in sharing and exchanging information, and taking part in online projects or active collaborations with appropriate global audiences"
+        },
+        "14440": {
+          "name": "Understand computer mediated communications",
+          "text": "understand that there are various methods of collaboration through computer mediated communications that vary in form and control"
+        }
       },
-      "14419": {
-        "name": "Select and evaluate data and information",
-        "text": "assess the suitability of data or information using a range of appropriate given criteria"
-      },
-      "14417": {
-        "name": "Locate generate and access data and information",
-        "text": "locate, retrieve or generate information using search engines and simple search functions and classify information in meaningful ways"
-      },
-      "14416": {
-        "name": "Generate ideas plans and processes",
-        "text": "use ICT effectively to record ideas, represent thinking and plan solutions"
-      },
-      "14423": {
-        "name": "Generate solutions to challenges and learning area tasks",
-        "text": "independently or collaboratively create and modify digital solutions, creative outputs or data representation/transformation for particular audiences and purposes"
-      },
-      "14415": {
-        "name": "Collaborate share and exchange",
-        "text": "select and use appropriate ICT tools safely to share and exchange information and to safely collaborate with others"
-      },
-      "14421": {
-        "name": "Understand computer mediated communications",
-        "text": "understand that particular forms of computer mediated communications and tools are suited to synchronous or asynchronous and one-to-one or group communications"
-      },
-      "14425": {
-        "name": "Select and use hardware and software",
-        "text": "select from, and safely operate, a range of devices to undertake specific tasks and use basic troubleshooting procedures to solve routine malfunctions"
-      },
-      "14418": {
-        "name": "Understand ICT systems",
-        "text": "identify, compare and classify basic ICT system components"
-      },
-      "14414": {
-        "name": "Manage digital data",
-        "text": "manage and maintain data on different storage mediums \u2013 locally and on networks"
+      "Level 6": {
+        "14444": {
+          "name": "Collaborate share and exchange",
+          "text": "select and use a range of ICT tools efficiently and safely to share and exchange information, and to collaboratively and purposefully construct knowledge"
+        },
+        "14441": {
+          "name": "Understand computer mediated communications",
+          "text": "understand that computer mediated communications have advantages and disadvantages in supporting active participation in a community of practice and the management of collaboration on digital materials"
+        }
       }
     },
-    "Level 5": {
-      "14431": {
-        "name": "Recognise intellectual property",
-        "text": "apply practices that comply with legal obligations regarding the ownership and use of digital products resources"
+    "Managing and operating ICT": {
+      "Level 1": {
+        "14378": {
+          "name": "Select and use hardware and software",
+          "text": "identify and safely operate ICT systems to complete relevant simple specified tasks and seek help when encountering a problem"
+        },
+        "14376": {
+          "name": "Understand ICT systems",
+          "text": "identify common consumer ICT systems with input and output functions"
+        },
+        "14381": {
+          "name": "Manage digital data",
+          "text": "save and retrieve digital data with support"
+        }
       },
-      "14430": {
-        "name": "Apply digital information security practices",
-        "text": "independently apply strategies for determining the appropriate type of digital information suited to the location of storage and adequate security for online environments"
+      "Level 2": {
+        "14397": {
+          "name": "Select and use hardware and software",
+          "text": "identify and safely operate a selected range of appropriate devices, software, functions and commands when operating an ICT system and attempt to solve a problem before seeking help"
+        },
+        "14386": {
+          "name": "Understand ICT systems",
+          "text": "identify the main components of common consumer ICT systems, their fundamental functions, and describe them using basic ICT terminology"
+        },
+        "14390": {
+          "name": "Manage digital data",
+          "text": "manage and maintain digital data with guidance"
+        }
       },
-      "14432": {
-        "name": "Apply personal security protocols",
-        "text": "identify and value the rights to identity, privacy and emotional safety for themselves and others when using ICT and apply generally accepted social protocols when using ICT to collaborate with local and global communities"
+      "Level 3": {
+        "14402": {
+          "name": "Select and use hardware and software",
+          "text": "identify and independently operate a range of devices, software, functions and commands, taking into consideration ergonomics when operating appropriate ICT systems, and seek solutions when encountering a problem"
+        },
+        "14411": {
+          "name": "Understand ICT systems",
+          "text": "identify and compare the use of the main components of different ICT systems"
+        },
+        "14406": {
+          "name": "Manage digital data",
+          "text": "manage and maintain digital data using common methods"
+        }
       },
-      "14428": {
-        "name": "Identify the impacts of ICT in society",
-        "text": "explain the benefits and risks of the use of ICT for particular people in work and home environments"
+      "Level 4": {
+        "14425": {
+          "name": "Select and use hardware and software",
+          "text": "select from, and safely operate, a range of devices to undertake specific tasks and use basic troubleshooting procedures to solve routine malfunctions"
+        },
+        "14418": {
+          "name": "Understand ICT systems",
+          "text": "identify, compare and classify basic ICT system components"
+        },
+        "14414": {
+          "name": "Manage digital data",
+          "text": "manage and maintain data on different storage mediums \u2013 locally and on networks"
+        }
       },
-      "14427": {
-        "name": "Define and plan information searches",
-        "text": "use a range of ICT to analyse information in terms of implicit patterns and structures as a basis to plan an information search or generation"
+      "Level 5": {
+        "14437": {
+          "name": "Select and use hardware and software",
+          "text": "independently select and operate a range of devices by adjusting relevant software functions to suit specific tasks, and independently use common troubleshooting procedures to solve routine malfunctions"
+        },
+        "14435": {
+          "name": "Understand ICT systems",
+          "text": "identify and compare networked ICT system components including between hardware, software and data"
+        },
+        "14438": {
+          "name": "Manage digital data",
+          "text": "manage and maintain data for groups of users using a variety of methods and systems"
+        }
       },
-      "14439": {
-        "name": "Select and evaluate data and information",
-        "text": "assess the suitability of data or information using appropriate own criteria"
-      },
-      "14434": {
-        "name": "Locate generate and access data and information",
-        "text": "locate, retrieve or generate information using search facilities and organise information in meaningful ways"
-      },
-      "14433": {
-        "name": "Generate ideas plans and processes",
-        "text": "use appropriate ICT to collaboratively generate ideas and develop plans"
-      },
-      "14429": {
-        "name": "Generate solutions to challenges and learning area tasks",
-        "text": "design and modify simple digital solutions, or multimodal creative outputs or data transformations for particular audiences and purposes following recognised conventions"
-      },
-      "14436": {
-        "name": "Collaborate share and exchange",
-        "text": "select and use appropriate ICT tools safely to lead groups in sharing and exchanging information, and taking part in online projects or active collaborations with appropriate global audiences"
-      },
-      "14440": {
-        "name": "Understand computer mediated communications",
-        "text": "understand that there are various methods of collaboration through computer mediated communications that vary in form and control"
-      },
-      "14437": {
-        "name": "Select and use hardware and software",
-        "text": "independently select and operate a range of devices by adjusting relevant software functions to suit specific tasks, and independently use common troubleshooting procedures to solve routine malfunctions"
-      },
-      "14435": {
-        "name": "Understand ICT systems",
-        "text": "identify and compare networked ICT system components including between hardware, software and data"
-      },
-      "14438": {
-        "name": "Manage digital data",
-        "text": "manage and maintain data for groups of users using a variety of methods and systems"
-      }
-    },
-    "Level 6": {
-      "14450": {
-        "name": "Recognise intellectual property",
-        "text": "identify and describe ethical dilemmas and consciously apply practices that protect intellectual property"
-      },
-      "14453": {
-        "name": "Apply digital information security practices",
-        "text": "use a range of strategies for securing and protecting information, assess the risks associated with online environments and establish appropriate security strategies and codes of conduct"
-      },
-      "14454": {
-        "name": "Apply personal security protocols",
-        "text": "independently apply appropriate strategies to protect rights, identity, privacy and emotional safety of others when using ICT, and discriminate between protocols suitable for different communication tools when collaborating with local and global communities"
-      },
-      "14451": {
-        "name": "Identify the impacts of ICT in society",
-        "text": "assess the impact of ICT in the workplace and in society, and speculate on its role in the future and how they can influence its use"
-      },
-      "14446": {
-        "name": "Define and plan information searches",
-        "text": "select and use a range of ICT independently and collaboratively, analyse information to frame questions and plan search strategies or data generation"
-      },
-      "14442": {
-        "name": "Select and evaluate data and information",
-        "text": "develop and use criteria systematically to evaluate the quality, suitability and credibility of located data or information and sources"
-      },
-      "14447": {
-        "name": "Locate generate and access data and information",
-        "text": "use advanced search tools and techniques or simulations and digital models to locate or generate precise data and information that supports the development of new understandings"
-      },
-      "14452": {
-        "name": "Generate ideas plans and processes",
-        "text": "select and use ICT to articulate ideas and concepts, and plan the development of complex solutions"
-      },
-      "14449": {
-        "name": "Generate solutions to challenges and learning area tasks",
-        "text": "Design, modify and manage complex digital solutions, or multimodal creative outputs or data transformations for a range of audiences and purposes"
-      },
-      "14444": {
-        "name": "Collaborate share and exchange",
-        "text": "select and use a range of ICT tools efficiently and safely to share and exchange information, and to collaboratively and purposefully construct knowledge"
-      },
-      "14441": {
-        "name": "Understand computer mediated communications",
-        "text": "understand that computer mediated communications have advantages and disadvantages in supporting active participation in a community of practice and the management of collaboration on digital materials"
-      },
-      "14443": {
-        "name": "Select and use hardware and software",
-        "text": "justify the selection of, and optimise the operation of, a selected range of devices and software functions to complete specific tasks, for different purposes and in different social contexts"
-      },
-      "14445": {
-        "name": "Understand ICT systems",
-        "text": "apply an understanding of networked ICT system components to make changes to functions, processes, procedures and devices to fit the purpose of the solutions"
-      },
-      "14448": {
-        "name": "Manage digital data",
-        "text": "manage and maintain data securely in a variety of storage mediums and formats"
+      "Level 6": {
+        "14443": {
+          "name": "Select and use hardware and software",
+          "text": "justify the selection of, and optimise the operation of, a selected range of devices and software functions to complete specific tasks, for different purposes and in different social contexts"
+        },
+        "14445": {
+          "name": "Understand ICT systems",
+          "text": "apply an understanding of networked ICT system components to make changes to functions, processes, procedures and devices to fit the purpose of the solutions"
+        },
+        "14448": {
+          "name": "Manage digital data",
+          "text": "manage and maintain data securely in a variety of storage mediums and formats"
+        }
       }
     }
   }
