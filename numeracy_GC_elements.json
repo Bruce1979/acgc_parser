@@ -1,434 +1,458 @@
 {
   "numeracy": {
     "Estimating and calculating with whole numbers": {
-      "Level 1a": {
-        "14295": {
-          "name": "Understand and use numbers in context",
-          "text": "demonstrate concepts of counting using every day experiences"
+      "Understand and use numbers in context": {
+        "Level 1a": {
+          "14295": {
+            "text": "demonstrate concepts of counting using every day experiences"
+          }
         },
-        "14294": {
-          "name": "Estimate and calculate",
-          "text": "recognise the effects of adding to and taking away from a collection of objects"
+        "Level 1b": {
+          "14309": {
+            "text": "connect and order number names, numerals and groups of objects using numbers up to two digits"
+          }
         },
-        "14291": {
-          "name": "Use money",
-          "text": "identify situations that involve the use of money"
+        "Level 2": {
+          "14317": {
+            "text": "model, represent, order and use numbers up to four digits"
+          }
+        },
+        "Level 3": {
+          "14326": {
+            "text": "model, represent, order and use numbers up to five digits"
+          }
+        },
+        "Level 4": {
+          "14345": {
+            "text": "identify, describe and use numbers larger than one million"
+          }
+        },
+        "Level 5": {
+          "14349": {
+            "text": "compare, order and use positive and negative numbers to solve everyday problems"
+          }
+        },
+        "Level 6": {
+          "14362": {
+            "text": "use different ways to represent very large and very small numbers including scientific notation"
+          }
         }
       },
-      "Level 1b": {
-        "14309": {
-          "name": "Understand and use numbers in context",
-          "text": "connect and order number names, numerals and groups of objects using numbers up to two digits"
+      "Estimate and calculate": {
+        "Level 1a": {
+          "14294": {
+            "text": "recognise the effects of adding to and taking away from a collection of objects"
+          }
         },
-        "14302": {
-          "name": "Estimate and calculate",
-          "text": "solve everyday addition and share stories"
+        "Level 1b": {
+          "14302": {
+            "text": "solve everyday addition and share stories"
+          }
         },
-        "14306": {
-          "name": "Use money",
-          "text": "recognise the different value of coins and notes in the Australian monetary system"
+        "Level 2": {
+          "14316": {
+            "text": "estimate the solution to a problem and then calculate the answer"
+          }
+        },
+        "Level 3": {
+          "14331": {
+            "text": "estimate a solution to a problem and then check the solution by recalling addition, subtraction, multiplication and division facts"
+          }
+        },
+        "Level 4": {
+          "14343": {
+            "text": "solve problems and check calculations using efficient mental and written strategies"
+          }
+        },
+        "Level 5": {
+          "14358": {
+            "text": "solve complex problems by estimating and calculating using efficient mental, written and digital strategies"
+          }
+        },
+        "Level 6": {
+          "14360": {
+            "text": "solve and model problems involving complex data by estimating and calculating using a variety of efficient mental, written and digital strategies"
+          }
         }
       },
-      "Level 2": {
-        "14317": {
-          "name": "Understand and use numbers in context",
-          "text": "model, represent, order and use numbers up to four digits"
+      "Use money": {
+        "Level 1a": {
+          "14291": {
+            "text": "identify situations that involve the use of money"
+          }
         },
-        "14316": {
-          "name": "Estimate and calculate",
-          "text": "estimate the solution to a problem and then calculate the answer"
+        "Level 1b": {
+          "14306": {
+            "text": "recognise the different value of coins and notes in the Australian monetary system"
+          }
         },
-        "14319": {
-          "name": "Use money",
-          "text": "identify and use combinations of coins and notes for simple purchases"
-        }
-      },
-      "Level 3": {
-        "14326": {
-          "name": "Understand and use numbers in context",
-          "text": "model, represent, order and use numbers up to five digits"
+        "Level 2": {
+          "14319": {
+            "text": "identify and use combinations of coins and notes for simple purchases"
+          }
         },
-        "14331": {
-          "name": "Estimate and calculate",
-          "text": "estimate a solution to a problem and then check the solution by recalling addition, subtraction, multiplication and division facts"
+        "Level 3": {
+          "14325": {
+            "text": "estimate the change from simple purchases"
+          }
         },
-        "14325": {
-          "name": "Use money",
-          "text": "estimate the change from simple purchases"
-        }
-      },
-      "Level 4": {
-        "14345": {
-          "name": "Understand and use numbers in context",
-          "text": "identify, describe and use numbers larger than one million"
+        "Level 4": {
+          "14344": {
+            "text": "create simple financial plans, budgets and cost predictions"
+          }
         },
-        "14343": {
-          "name": "Estimate and calculate",
-          "text": "solve problems and check calculations using efficient mental and written strategies"
+        "Level 5": {
+          "14356": {
+            "text": "identify and justify \u2018best value for money\u2019 decisions"
+          }
         },
-        "14344": {
-          "name": "Use money",
-          "text": "create simple financial plans, budgets and cost predictions"
-        }
-      },
-      "Level 5": {
-        "14349": {
-          "name": "Understand and use numbers in context",
-          "text": "compare, order and use positive and negative numbers to solve everyday problems"
-        },
-        "14358": {
-          "name": "Estimate and calculate",
-          "text": "solve complex problems by estimating and calculating using efficient mental, written and digital strategies"
-        },
-        "14356": {
-          "name": "Use money",
-          "text": "identify and justify \u2018best value for money\u2019 decisions"
-        }
-      },
-      "Level 6": {
-        "14362": {
-          "name": "Understand and use numbers in context",
-          "text": "use different ways to represent very large and very small numbers including scientific notation"
-        },
-        "14360": {
-          "name": "Estimate and calculate",
-          "text": "solve and model problems involving complex data by estimating and calculating using a variety of efficient mental, written and digital strategies"
-        },
-        "14363": {
-          "name": "Use money",
-          "text": "evaluate financial plans to support specific financial goals"
+        "Level 6": {
+          "14363": {
+            "text": "evaluate financial plans to support specific financial goals"
+          }
         }
       }
     },
     "Recognising and using patterns and relationships": {
-      "Level 1a": {
-        "14297": {
-          "name": "Recognise and use patterns and relationships",
-          "text": "recognise simple patterns in everyday contexts"
-        }
-      },
-      "Level 1b": {
-        "14300": {
-          "name": "Recognise and use patterns and relationships",
-          "text": "describe and continue patterns"
-        }
-      },
-      "Level 2": {
-        "14321": {
-          "name": "Recognise and use patterns and relationships",
-          "text": "identify, describe and create everyday patterns"
-        }
-      },
-      "Level 3": {
-        "14334": {
-          "name": "Recognise and use patterns and relationships",
-          "text": "identify and describe trends in everyday patterns"
-        }
-      },
-      "Level 4": {
-        "14335": {
-          "name": "Recognise and use patterns and relationships",
-          "text": "identify and describe pattern rules and relationships that help to identify trends"
-        }
-      },
-      "Level 5": {
-        "14354": {
-          "name": "Recognise and use patterns and relationships",
-          "text": "identify trends using number rules and relationships"
-        }
-      },
-      "Level 6": {
-        "14370": {
-          "name": "Recognise and use patterns and relationships",
-          "text": "explain how the practical application of patterns can be used to identify trends"
+      "Recognise and use patterns and relationships": {
+        "Level 1a": {
+          "14297": {
+            "text": "recognise simple patterns in everyday contexts"
+          }
+        },
+        "Level 1b": {
+          "14300": {
+            "text": "describe and continue patterns"
+          }
+        },
+        "Level 2": {
+          "14321": {
+            "text": "identify, describe and create everyday patterns"
+          }
+        },
+        "Level 3": {
+          "14334": {
+            "text": "identify and describe trends in everyday patterns"
+          }
+        },
+        "Level 4": {
+          "14335": {
+            "text": "identify and describe pattern rules and relationships that help to identify trends"
+          }
+        },
+        "Level 5": {
+          "14354": {
+            "text": "identify trends using number rules and relationships"
+          }
+        },
+        "Level 6": {
+          "14370": {
+            "text": "explain how the practical application of patterns can be used to identify trends"
+          }
         }
       }
     },
     "Using fractions, decimals, percentages, ratios and rates": {
-      "Level 1a": {
-        "14293": {
-          "name": "Interpret proportional reasoning",
-          "text": "recognise a \u2018whole\u2019 and \u2018parts of a whole\u2019 within everyday contexts"
+      "Interpret proportional reasoning": {
+        "Level 1a": {
+          "14293": {
+            "text": "recognise a \u2018whole\u2019 and \u2018parts of a whole\u2019 within everyday contexts"
+          }
         },
-        "14288": {
-          "name": "Apply proportional reasoning",
-          "text": "Level 1b is the starting point for this sub-element"
+        "Level 1b": {
+          "14308": {
+            "text": "recognise that a whole object can be divided into equal parts"
+          }
+        },
+        "Level 2": {
+          "14312": {
+            "text": "visualise and describe halves and quarters"
+          }
+        },
+        "Level 3": {
+          "14329": {
+            "text": "visualise, describe and order tenths, hundredths, 1-place and 2-place decimals"
+          }
+        },
+        "Level 4": {
+          "14341": {
+            "text": "visualise, describe and order equivalent fractions, decimals and simple percentages"
+          }
+        },
+        "Level 5": {
+          "14353": {
+            "text": "visualise and describe the proportions of percentages, ratios and rates"
+          }
+        },
+        "Level 6": {
+          "14366": {
+            "text": "illustrate and order relationships for fractions, decimals, percentages, ratios and rates"
+          }
         }
       },
-      "Level 1b": {
-        "14308": {
-          "name": "Interpret proportional reasoning",
-          "text": "recognise that a whole object can be divided into equal parts"
+      "Apply proportional reasoning": {
+        "Level 1a": {
+          "14288": {
+            "text": "Level 1b is the starting point for this sub-element"
+          }
         },
-        "14301": {
-          "name": "Apply proportional reasoning",
-          "text": "identify quantities such as more, less and the same in everyday comparisons"
-        }
-      },
-      "Level 2": {
-        "14312": {
-          "name": "Interpret proportional reasoning",
-          "text": "visualise and describe halves and quarters"
+        "Level 1b": {
+          "14301": {
+            "text": "identify quantities such as more, less and the same in everyday comparisons"
+          }
         },
-        "14315": {
-          "name": "Apply proportional reasoning",
-          "text": "solve problems using halves and quarters"
-        }
-      },
-      "Level 3": {
-        "14329": {
-          "name": "Interpret proportional reasoning",
-          "text": "visualise, describe and order tenths, hundredths, 1-place and 2-place decimals"
+        "Level 2": {
+          "14315": {
+            "text": "solve problems using halves and quarters"
+          }
         },
-        "14323": {
-          "name": "Apply proportional reasoning",
-          "text": "solve problems using equivalent fractions for tenths, hundredths, 1-place and 2-place decimals"
-        }
-      },
-      "Level 4": {
-        "14341": {
-          "name": "Interpret proportional reasoning",
-          "text": "visualise, describe and order equivalent fractions, decimals and simple percentages"
+        "Level 3": {
+          "14323": {
+            "text": "solve problems using equivalent fractions for tenths, hundredths, 1-place and 2-place decimals"
+          }
         },
-        "14340": {
-          "name": "Apply proportional reasoning",
-          "text": "solve problems using equivalent fractions, decimals and simple percentages"
-        }
-      },
-      "Level 5": {
-        "14353": {
-          "name": "Interpret proportional reasoning",
-          "text": "visualise and describe the proportions of percentages, ratios and rates"
+        "Level 4": {
+          "14340": {
+            "text": "solve problems using equivalent fractions, decimals and simple percentages"
+          }
         },
-        "14355": {
-          "name": "Apply proportional reasoning",
-          "text": "solve problems using simple percentages, ratios and rates"
-        }
-      },
-      "Level 6": {
-        "14366": {
-          "name": "Interpret proportional reasoning",
-          "text": "illustrate and order relationships for fractions, decimals, percentages, ratios and rates"
+        "Level 5": {
+          "14355": {
+            "text": "solve problems using simple percentages, ratios and rates"
+          }
         },
-        "14369": {
-          "name": "Apply proportional reasoning",
-          "text": "solve problems involving fractions, decimals, percentages, ratios and rates"
+        "Level 6": {
+          "14369": {
+            "text": "solve problems involving fractions, decimals, percentages, ratios and rates"
+          }
         }
       }
     },
     "Using spatial reasoning": {
-      "Level 1a": {
-        "14287": {
-          "name": "Visualise 2D shapes and 3D objects",
-          "text": "sort or match objects according to their features"
+      "Visualise 2D shapes and 3D objects": {
+        "Level 1a": {
+          "14287": {
+            "text": "sort or match objects according to their features"
+          }
         },
-        "14298": {
-          "name": "Interpret maps and diagrams",
-          "text": "demonstrate awareness of position of self and objects in relation to everyday contexts"
+        "Level 1b": {
+          "14299": {
+            "text": "sort and name simple 2D shapes and 3D objects"
+          }
+        },
+        "Level 2": {
+          "14320": {
+            "text": "identify, sort and describe common 2D shapes and 3D objects"
+          }
+        },
+        "Level 3": {
+          "14330": {
+            "text": "visualise, sort, identify and describe symmetry, shapes and angles in the environment"
+          }
+        },
+        "Level 4": {
+          "14338": {
+            "text": "visualise, sort, describe and compare the features of objects such as prisms and pyramids in the environment"
+          }
+        },
+        "Level 5": {
+          "14347": {
+            "text": "visualise, describe and apply their understanding of the features and properties of 2D shapes and 3D objects"
+          }
+        },
+        "Level 6": {
+          "14361": {
+            "text": "visualise, describe and analyse the way shapes and objects are combined and positioned in the environment for different purposes"
+          }
         }
       },
-      "Level 1b": {
-        "14299": {
-          "name": "Visualise 2D shapes and 3D objects",
-          "text": "sort and name simple 2D shapes and 3D objects"
+      "Interpret maps and diagrams": {
+        "Level 1a": {
+          "14298": {
+            "text": "demonstrate awareness of position of self and objects in relation to everyday contexts"
+          }
         },
-        "14307": {
-          "name": "Interpret maps and diagrams",
-          "text": "follow directions to demonstrate understanding of common position words and movements"
-        }
-      },
-      "Level 2": {
-        "14320": {
-          "name": "Visualise 2D shapes and 3D objects",
-          "text": "identify, sort and describe common 2D shapes and 3D objects"
+        "Level 1b": {
+          "14307": {
+            "text": "follow directions to demonstrate understanding of common position words and movements"
+          }
         },
-        "14311": {
-          "name": "Interpret maps and diagrams",
-          "text": "give and follow directions on maps and diagrams of familiar locations"
-        }
-      },
-      "Level 3": {
-        "14330": {
-          "name": "Visualise 2D shapes and 3D objects",
-          "text": "visualise, sort, identify and describe symmetry, shapes and angles in the environment"
+        "Level 2": {
+          "14311": {
+            "text": "give and follow directions on maps and diagrams of familiar locations"
+          }
         },
-        "14328": {
-          "name": "Interpret maps and diagrams",
-          "text": "interpret information, locate positions and describe routes on maps and diagrams using simple scales, legends and directional language"
-        }
-      },
-      "Level 4": {
-        "14338": {
-          "name": "Visualise 2D shapes and 3D objects",
-          "text": "visualise, sort, describe and compare the features of objects such as prisms and pyramids in the environment"
+        "Level 3": {
+          "14328": {
+            "text": "interpret information, locate positions and describe routes on maps and diagrams using simple scales, legends and directional language"
+          }
         },
-        "14337": {
-          "name": "Interpret maps and diagrams",
-          "text": "identify and describe routes and locations, using grid reference systems and directional language such as north or north east"
-        }
-      },
-      "Level 5": {
-        "14347": {
-          "name": "Visualise 2D shapes and 3D objects",
-          "text": "visualise, describe and apply their understanding of the features and properties of 2D shapes and 3D objects"
+        "Level 4": {
+          "14337": {
+            "text": "identify and describe routes and locations, using grid reference systems and directional language such as north or north east"
+          }
         },
-        "14352": {
-          "name": "Interpret maps and diagrams",
-          "text": "create and interpret 2D and 3D maps, models and diagrams"
-        }
-      },
-      "Level 6": {
-        "14361": {
-          "name": "Visualise 2D shapes and 3D objects",
-          "text": "visualise, describe and analyse the way shapes and objects are combined and positioned in the environment for different purposes"
+        "Level 5": {
+          "14352": {
+            "text": "create and interpret 2D and 3D maps, models and diagrams"
+          }
         },
-        "14365": {
-          "name": "Interpret maps and diagrams",
-          "text": "create and interpret maps, models and diagrams using a range of mapping tools"
+        "Level 6": {
+          "14365": {
+            "text": "create and interpret maps, models and diagrams using a range of mapping tools"
+          }
         }
       }
     },
     "Interpreting statistical information": {
-      "Level 1a": {
-        "14289": {
-          "name": "Interpret data displays",
-          "text": "display information using real objects or photographs and respond to questions about the information displayed"
+      "Interpret data displays": {
+        "Level 1a": {
+          "14289": {
+            "text": "display information using real objects or photographs and respond to questions about the information displayed"
+          }
         },
-        "14292": {
-          "name": "Interpret chance events",
-          "text": "Level 1b is the starting point for this sub-element"
+        "Level 1b": {
+          "14305": {
+            "text": "recognise how to ask and answer simple data questions and interpret data in drawings or picture graphs"
+          }
+        },
+        "Level 2": {
+          "14318": {
+            "text": "collect and describe data on a relevant issue based on one variable and display as lists, tables or picture graphs"
+          }
+        },
+        "Level 3": {
+          "14333": {
+            "text": "collect record and display data as tables, diagrams, picture graphs and column graphs"
+          }
+        },
+        "Level 4": {
+          "14339": {
+            "text": "collect, compare, describe and interpret data as 2-way tables, double column graphs and sector graphs, including from digital media"
+          }
+        },
+        "Level 5": {
+          "14348": {
+            "text": "compare, interpret and assess the effectiveness of different data displays of the same information"
+          }
+        },
+        "Level 6": {
+          "14359": {
+            "text": "evaluate media statistics and trends by linking claims to data displays, statistics and representative data"
+          }
         }
       },
-      "Level 1b": {
-        "14305": {
-          "name": "Interpret data displays",
-          "text": "recognise how to ask and answer simple data questions and interpret data in drawings or picture graphs"
+      "Interpret chance events": {
+        "Level 1a": {
+          "14292": {
+            "text": "Level 1b is the starting point for this sub-element"
+          }
         },
-        "14303": {
-          "name": "Interpret chance events",
-          "text": "recognise that some events might or might not happen"
-        }
-      },
-      "Level 2": {
-        "14318": {
-          "name": "Interpret data displays",
-          "text": "collect and describe data on a relevant issue based on one variable and display as lists, tables or picture graphs"
+        "Level 1b": {
+          "14303": {
+            "text": "recognise that some events might or might not happen"
+          }
         },
-        "14322": {
-          "name": "Interpret chance events",
-          "text": "identify and describe familiar events that involve chance"
-        }
-      },
-      "Level 3": {
-        "14333": {
-          "name": "Interpret data displays",
-          "text": "collect record and display data as tables, diagrams, picture graphs and column graphs"
+        "Level 2": {
+          "14322": {
+            "text": "identify and describe familiar events that involve chance"
+          }
         },
-        "14332": {
-          "name": "Interpret chance events",
-          "text": "describe possible outcomes from chance experiments using informal chance language and recognising variations in results"
-        }
-      },
-      "Level 4": {
-        "14339": {
-          "name": "Interpret data displays",
-          "text": "collect, compare, describe and interpret data as 2-way tables, double column graphs and sector graphs, including from digital media"
+        "Level 3": {
+          "14332": {
+            "text": "describe possible outcomes from chance experiments using informal chance language and recognising variations in results"
+          }
         },
-        "14336": {
-          "name": "Interpret chance events",
-          "text": "describe chance events and compare observed outcomes with predictions using numerical representations such as a 75% chance of rain or 50/50 chance of snow"
-        }
-      },
-      "Level 5": {
-        "14348": {
-          "name": "Interpret data displays",
-          "text": "compare, interpret and assess the effectiveness of different data displays of the same information"
+        "Level 4": {
+          "14336": {
+            "text": "describe chance events and compare observed outcomes with predictions using numerical representations such as a 75% chance of rain or 50/50 chance of snow"
+          }
         },
-        "14357": {
-          "name": "Interpret chance events",
-          "text": "describe and explain why the actual results of chance events are not always the same as expected results"
-        }
-      },
-      "Level 6": {
-        "14359": {
-          "name": "Interpret data displays",
-          "text": "evaluate media statistics and trends by linking claims to data displays, statistics and representative data"
+        "Level 5": {
+          "14357": {
+            "text": "describe and explain why the actual results of chance events are not always the same as expected results"
+          }
         },
-        "14368": {
-          "name": "Interpret chance events",
-          "text": "explain the likelihood of multiple events occurring together by giving examples of situations when they might happen"
+        "Level 6": {
+          "14368": {
+            "text": "explain the likelihood of multiple events occurring together by giving examples of situations when they might happen"
+          }
         }
       }
     },
     "Using measurement": {
-      "Level 1a": {
-        "14296": {
-          "name": "Estimate and measure with metric units",
-          "text": "use informal language and/or actions to describe characteristics of length, temperature, mass, volume, capacity and area in familiar environments"
+      "Estimate and measure with metric units": {
+        "Level 1a": {
+          "14296": {
+            "text": "use informal language and/or actions to describe characteristics of length, temperature, mass, volume, capacity and area in familiar environments"
+          }
         },
-        "14290": {
-          "name": "Operate with clocks calendars and timetables",
-          "text": "sequence familiar actions and events in a variety of ways"
+        "Level 1b": {
+          "14310": {
+            "text": "measure by comparing objects and indicate if these measurements are the same or different"
+          }
+        },
+        "Level 2": {
+          "14314": {
+            "text": "estimate, measure and order using direct and indirect comparisons and informal units to collect and record information about shapes and objects"
+          }
+        },
+        "Level 3": {
+          "14324": {
+            "text": "estimate, measure and compare the length, temperature, volume, capacity and mass of everyday objects using metric units and scaled instruments"
+          }
+        },
+        "Level 4": {
+          "14346": {
+            "text": "choose and use appropriate metric units for length, area, volume, capacity and mass to solve everyday problems"
+          }
+        },
+        "Level 5": {
+          "14350": {
+            "text": "convert between common metric units for volume and capacity and use perimeter, area and volume formulas to solve authentic problems"
+          }
+        },
+        "Level 6": {
+          "14364": {
+            "text": "solve complex problems involving surface area and volume of prisms and cylinders and composite solids"
+          }
         }
       },
-      "Level 1b": {
-        "14310": {
-          "name": "Estimate and measure with metric units",
-          "text": "measure by comparing objects and indicate if these measurements are the same or different"
+      "Operate with clocks calendars and timetables": {
+        "Level 1a": {
+          "14290": {
+            "text": "sequence familiar actions and events in a variety of ways"
+          }
         },
-        "14304": {
-          "name": "Operate with clocks calendars and timetables",
-          "text": "sequence familiar actions and events using the everyday language of time"
-        }
-      },
-      "Level 2": {
-        "14314": {
-          "name": "Estimate and measure with metric units",
-          "text": "estimate, measure and order using direct and indirect comparisons and informal units to collect and record information about shapes and objects"
+        "Level 1b": {
+          "14304": {
+            "text": "sequence familiar actions and events using the everyday language of time"
+          }
         },
-        "14313": {
-          "name": "Operate with clocks calendars and timetables",
-          "text": "read digital and analogue clocks to the half and quarter hour, sequence events by months and seasons and identify a date on a calendar"
-        }
-      },
-      "Level 3": {
-        "14324": {
-          "name": "Estimate and measure with metric units",
-          "text": "estimate, measure and compare the length, temperature, volume, capacity and mass of everyday objects using metric units and scaled instruments"
+        "Level 2": {
+          "14313": {
+            "text": "read digital and analogue clocks to the half and quarter hour, sequence events by months and seasons and identify a date on a calendar"
+          }
         },
-        "14327": {
-          "name": "Operate with clocks calendars and timetables",
-          "text": "read digital and analogue clocks to the minute, convert between hours and minutes, use 'am' and 'pm', and use calendars to locate and compare time events"
-        }
-      },
-      "Level 4": {
-        "14346": {
-          "name": "Estimate and measure with metric units",
-          "text": "choose and use appropriate metric units for length, area, volume, capacity and mass to solve everyday problems"
+        "Level 3": {
+          "14327": {
+            "text": "read digital and analogue clocks to the minute, convert between hours and minutes, use 'am' and 'pm', and use calendars to locate and compare time events"
+          }
         },
-        "14342": {
-          "name": "Operate with clocks calendars and timetables",
-          "text": "convert between 12- and 24-hour systems to solve time problems, interpret and use timetables from print and digital sources"
-        }
-      },
-      "Level 5": {
-        "14350": {
-          "name": "Estimate and measure with metric units",
-          "text": "convert between common metric units for volume and capacity and use perimeter, area and volume formulas to solve authentic problems"
+        "Level 4": {
+          "14342": {
+            "text": "convert between 12- and 24-hour systems to solve time problems, interpret and use timetables from print and digital sources"
+          }
         },
-        "14351": {
-          "name": "Operate with clocks calendars and timetables",
-          "text": "use 12- and 24-hour systems within a single time zone to solve time problems, and place personal and family events on an extended time scale"
-        }
-      },
-      "Level 6": {
-        "14364": {
-          "name": "Estimate and measure with metric units",
-          "text": "solve complex problems involving surface area and volume of prisms and cylinders and composite solids"
+        "Level 5": {
+          "14351": {
+            "text": "use 12- and 24-hour systems within a single time zone to solve time problems, and place personal and family events on an extended time scale"
+          }
         },
-        "14367": {
-          "name": "Operate with clocks calendars and timetables",
-          "text": "use 12- and 24-hour systems within a multiple time zone to solve time problems, use large and small timescales in complex contexts and place historical and scientific events on an extended time scale"
+        "Level 6": {
+          "14367": {
+            "text": "use 12- and 24-hour systems within a multiple time zone to solve time problems, use large and small timescales in complex contexts and place historical and scientific events on an extended time scale"
+          }
         }
       }
     }

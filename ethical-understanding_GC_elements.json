@@ -1,236 +1,264 @@
 {
   "ethical-understanding": {
     "Understanding ethical concepts and issues": {
-      "Level 1": {
-        "14634": {
-          "name": "Recognise ethical concepts",
-          "text": "identify ethical concepts arising in familiar contexts, such as good and bad behaviours"
+      "Recognise ethical concepts": {
+        "Level 1": {
+          "14634": {
+            "text": "identify ethical concepts arising in familiar contexts, such as good and bad behaviours"
+          }
         },
-        "14638": {
-          "name": "Explore ethical concepts in context",
-          "text": "describe familiar situations that involve ethical concepts"
+        "Level 2": {
+          "14648": {
+            "text": "describe ethical concepts, such as right and wrong, honesty, fairness and tolerance"
+          }
+        },
+        "Level 3": {
+          "14651": {
+            "text": "identify ethical concepts, such as equality, respect and connectedness, and describe some of their attributes"
+          }
+        },
+        "Level 4": {
+          "14657": {
+            "text": "examine and explain ethical concepts such as truth and justice that contribute to the achievement of a particular outcome"
+          }
+        },
+        "Level 5": {
+          "14669": {
+            "text": "analyse behaviours that exemplify the dimensions and challenges of ethical concepts"
+          }
+        },
+        "Level 6": {
+          "14677": {
+            "text": "critique generalised statements about ethical concepts"
+          }
         }
       },
-      "Level 2": {
-        "14648": {
-          "name": "Recognise ethical concepts",
-          "text": "describe ethical concepts, such as right and wrong, honesty, fairness and tolerance"
+      "Explore ethical concepts in context": {
+        "Level 1": {
+          "14638": {
+            "text": "describe familiar situations that involve ethical concepts"
+          }
         },
-        "14646": {
-          "name": "Explore ethical concepts in context",
-          "text": "discuss ethical concepts within a range of familiar contexts"
-        }
-      },
-      "Level 3": {
-        "14651": {
-          "name": "Recognise ethical concepts",
-          "text": "identify ethical concepts, such as equality, respect and connectedness, and describe some of their attributes"
+        "Level 2": {
+          "14646": {
+            "text": "discuss ethical concepts within a range of familiar contexts"
+          }
         },
-        "14656": {
-          "name": "Explore ethical concepts in context",
-          "text": "discuss actions taken in a range of contexts that include an ethical dimension"
-        }
-      },
-      "Level 4": {
-        "14657": {
-          "name": "Recognise ethical concepts",
-          "text": "examine and explain ethical concepts such as truth and justice that contribute to the achievement of a particular outcome"
+        "Level 3": {
+          "14656": {
+            "text": "discuss actions taken in a range of contexts that include an ethical dimension"
+          }
         },
-        "14662": {
-          "name": "Explore ethical concepts in context",
-          "text": "explain what constitutes an ethically better or worse outcome and how it might be accomplished"
-        }
-      },
-      "Level 5": {
-        "14669": {
-          "name": "Recognise ethical concepts",
-          "text": "analyse behaviours that exemplify the dimensions and challenges of ethical concepts"
+        "Level 4": {
+          "14662": {
+            "text": "explain what constitutes an ethically better or worse outcome and how it might be accomplished"
+          }
         },
-        "14665": {
-          "name": "Explore ethical concepts in context",
-          "text": "analyse the ethical dimensions of beliefs and the need for action in a range of settings"
-        }
-      },
-      "Level 6": {
-        "14677": {
-          "name": "Recognise ethical concepts",
-          "text": "critique generalised statements about ethical concepts"
+        "Level 5": {
+          "14665": {
+            "text": "analyse the ethical dimensions of beliefs and the need for action in a range of settings"
+          }
         },
-        "14674": {
-          "name": "Explore ethical concepts in context",
-          "text": "distinguish between the ethical and non-ethical dimensions of complex issues"
+        "Level 6": {
+          "14674": {
+            "text": "distinguish between the ethical and non-ethical dimensions of complex issues"
+          }
         }
       }
     },
     "Reasoning in decision making and actions": {
-      "Level 1": {
-        "14633": {
-          "name": "Reason and make ethical decisions",
-          "text": "identify examples from stories and experiences that show ways people make decisions about their actions"
+      "Reason and make ethical decisions": {
+        "Level 1": {
+          "14633": {
+            "text": "identify examples from stories and experiences that show ways people make decisions about their actions"
+          }
         },
-        "14639": {
-          "name": "Consider consequences",
-          "text": "identify links between emotions and behaviours"
+        "Level 2": {
+          "14642": {
+            "text": "discuss how people make decisions about their actions and offer reasons why people\u2019s decisions differ"
+          }
         },
-        "14636": {
-          "name": "Reflect on ethical action",
-          "text": "identify and describe the influence of factors such as wants and needs on people\u2019s actions"
+        "Level 3": {
+          "14650": {
+            "text": "explain reasons for acting in certain ways, including the conflict between self-respect and self-interest in reaching decisions"
+          }
+        },
+        "Level 4": {
+          "14663": {
+            "text": "explore the reasons behind there being a variety of ethical positions on a social issue"
+          }
+        },
+        "Level 5": {
+          "14668": {
+            "text": "analyse inconsistencies in personal reasoning and societal ethical decision making"
+          }
+        },
+        "Level 6": {
+          "14679": {
+            "text": "investigate reasons for clashes of beliefs in issues of personal, social and global importance"
+          }
         }
       },
-      "Level 2": {
-        "14642": {
-          "name": "Reason and make ethical decisions",
-          "text": "discuss how people make decisions about their actions and offer reasons why people\u2019s decisions differ"
+      "Consider consequences": {
+        "Level 1": {
+          "14639": {
+            "text": "identify links between emotions and behaviours"
+          }
         },
-        "14643": {
-          "name": "Consider consequences",
-          "text": "describe the effects that personal feelings and dispositions have on how people behave"
+        "Level 2": {
+          "14643": {
+            "text": "describe the effects that personal feelings and dispositions have on how people behave"
+          }
         },
-        "14647": {
-          "name": "Reflect on ethical action",
-          "text": "give examples of how understanding situations can influence the way people act"
+        "Level 3": {
+          "14654": {
+            "text": "examine the links between emotions, dispositions and intended and unintended consequences of their actions on others"
+          }
+        },
+        "Level 4": {
+          "14661": {
+            "text": "evaluate the consequences of actions in familiar and hypothetical scenarios"
+          }
+        },
+        "Level 5": {
+          "14666": {
+            "text": "investigate scenarios that highlight ways that personal dispositions and actions can affect consequences"
+          }
+        },
+        "Level 6": {
+          "14676": {
+            "text": "analyse the objectivity or subjectivity behind decision making where there are many possible consequences"
+          }
         }
       },
-      "Level 3": {
-        "14650": {
-          "name": "Reason and make ethical decisions",
-          "text": "explain reasons for acting in certain ways, including the conflict between self-respect and self-interest in reaching decisions"
+      "Reflect on ethical action": {
+        "Level 1": {
+          "14636": {
+            "text": "identify and describe the influence of factors such as wants and needs on people\u2019s actions"
+          }
         },
-        "14654": {
-          "name": "Consider consequences",
-          "text": "examine the links between emotions, dispositions and intended and unintended consequences of their actions on others"
+        "Level 2": {
+          "14647": {
+            "text": "give examples of how understanding situations can influence the way people act"
+          }
         },
-        "14653": {
-          "name": "Reflect on ethical action",
-          "text": "consider whether having a conscience leads to ways of acting ethically in different scenarios"
-        }
-      },
-      "Level 4": {
-        "14663": {
-          "name": "Reason and make ethical decisions",
-          "text": "explore the reasons behind there being a variety of ethical positions on a social issue"
+        "Level 3": {
+          "14653": {
+            "text": "consider whether having a conscience leads to ways of acting ethically in different scenarios"
+          }
         },
-        "14661": {
-          "name": "Consider consequences",
-          "text": "evaluate the consequences of actions in familiar and hypothetical scenarios"
+        "Level 4": {
+          "14659": {
+            "text": "articulate a range of ethical responses to situations in various social contexts"
+          }
         },
-        "14659": {
-          "name": "Reflect on ethical action",
-          "text": "articulate a range of ethical responses to situations in various social contexts"
-        }
-      },
-      "Level 5": {
-        "14668": {
-          "name": "Reason and make ethical decisions",
-          "text": "analyse inconsistencies in personal reasoning and societal ethical decision making"
+        "Level 5": {
+          "14672": {
+            "text": "analyse perceptions of occurrences and possible ethical response in challenging scenarios"
+          }
         },
-        "14666": {
-          "name": "Consider consequences",
-          "text": "investigate scenarios that highlight ways that personal dispositions and actions can affect consequences"
-        },
-        "14672": {
-          "name": "Reflect on ethical action",
-          "text": "analyse perceptions of occurrences and possible ethical response in challenging scenarios"
-        }
-      },
-      "Level 6": {
-        "14679": {
-          "name": "Reason and make ethical decisions",
-          "text": "investigate reasons for clashes of beliefs in issues of personal, social and global importance"
-        },
-        "14676": {
-          "name": "Consider consequences",
-          "text": "analyse the objectivity or subjectivity behind decision making where there are many possible consequences"
-        },
-        "14673": {
-          "name": "Reflect on ethical action",
-          "text": "evaluate diverse perceptions and ethical bases of action in complex contexts"
+        "Level 6": {
+          "14673": {
+            "text": "evaluate diverse perceptions and ethical bases of action in complex contexts"
+          }
         }
       }
     },
     "Exploring values, rights and responsibilities": {
-      "Level 1": {
-        "14637": {
-          "name": "Examine values",
-          "text": "identify values that are important to them"
+      "Examine values": {
+        "Level 1": {
+          "14637": {
+            "text": "identify values that are important to them"
+          }
         },
-        "14635": {
-          "name": "Explore rights and responsibilities",
-          "text": "share examples of rights and responsibilities in given situations"
+        "Level 2": {
+          "14644": {
+            "text": "discuss some agreed values in familiar contexts"
+          }
         },
-        "14640": {
-          "name": "Consider points of view",
-          "text": "express their own point of view and listen to the views of others"
+        "Level 3": {
+          "14655": {
+            "text": "identify and describe shared values in familiar and unfamiliar contexts"
+          }
+        },
+        "Level 4": {
+          "14658": {
+            "text": "examine values accepted and enacted within various communities"
+          }
+        },
+        "Level 5": {
+          "14671": {
+            "text": "assess the relevance of beliefs and the role and application of values in social practices"
+          }
+        },
+        "Level 6": {
+          "14678": {
+            "text": "analyse and explain the interplay of values in national and international forums and policy making"
+          }
         }
       },
-      "Level 2": {
-        "14644": {
-          "name": "Examine values",
-          "text": "discuss some agreed values in familiar contexts"
+      "Explore rights and responsibilities": {
+        "Level 1": {
+          "14635": {
+            "text": "share examples of rights and responsibilities in given situations"
+          }
         },
-        "14641": {
-          "name": "Explore rights and responsibilities",
-          "text": "identify their rights and associated responsibilities and those of their classmates"
+        "Level 2": {
+          "14641": {
+            "text": "identify their rights and associated responsibilities and those of their classmates"
+          }
         },
-        "14645": {
-          "name": "Consider points of view",
-          "text": "recognise that there may be many points of view when probing ethical dilemmas and identify alternative views"
+        "Level 3": {
+          "14652": {
+            "text": "investigate children\u2019s rights and responsibilities at school and in the local community"
+          }
+        },
+        "Level 4": {
+          "14660": {
+            "text": "monitor consistency between rights and responsibilities when interacting face-to-face or through social media"
+          }
+        },
+        "Level 5": {
+          "14670": {
+            "text": "analyse rights and responsibilities in relation to the duties of a responsible citizen"
+          }
+        },
+        "Level 6": {
+          "14675": {
+            "text": "evaluate the merits of conflicting rights and responsibilities in global contexts"
+          }
         }
       },
-      "Level 3": {
-        "14655": {
-          "name": "Examine values",
-          "text": "identify and describe shared values in familiar and unfamiliar contexts"
+      "Consider points of view": {
+        "Level 1": {
+          "14640": {
+            "text": "express their own point of view and listen to the views of others"
+          }
         },
-        "14652": {
-          "name": "Explore rights and responsibilities",
-          "text": "investigate children\u2019s rights and responsibilities at school and in the local community"
+        "Level 2": {
+          "14645": {
+            "text": "recognise that there may be many points of view when probing ethical dilemmas and identify alternative views"
+          }
         },
-        "14649": {
-          "name": "Consider points of view",
-          "text": "describe different points of view associated with an ethical dilemma and give possible reasons for these differences"
-        }
-      },
-      "Level 4": {
-        "14658": {
-          "name": "Examine values",
-          "text": "examine values accepted and enacted within various communities"
+        "Level 3": {
+          "14649": {
+            "text": "describe different points of view associated with an ethical dilemma and give possible reasons for these differences"
+          }
         },
-        "14660": {
-          "name": "Explore rights and responsibilities",
-          "text": "monitor consistency between rights and responsibilities when interacting face-to-face or through social media"
+        "Level 4": {
+          "14664": {
+            "text": "explain a range of possible interpretations and points of view when thinking about ethical dilemmas"
+          }
         },
-        "14664": {
-          "name": "Consider points of view",
-          "text": "explain a range of possible interpretations and points of view when thinking about ethical dilemmas"
-        }
-      },
-      "Level 5": {
-        "14671": {
-          "name": "Examine values",
-          "text": "assess the relevance of beliefs and the role and application of values in social practices"
+        "Level 5": {
+          "14667": {
+            "text": "draw conclusions from a range of points of view associated with challenging ethical dilemmas"
+          }
         },
-        "14670": {
-          "name": "Explore rights and responsibilities",
-          "text": "analyse rights and responsibilities in relation to the duties of a responsible citizen"
-        },
-        "14667": {
-          "name": "Consider points of view",
-          "text": "draw conclusions from a range of points of view associated with challenging ethical dilemmas"
-        }
-      },
-      "Level 6": {
-        "14678": {
-          "name": "Examine values",
-          "text": "analyse and explain the interplay of values in national and international forums and policy making"
-        },
-        "14675": {
-          "name": "Explore rights and responsibilities",
-          "text": "evaluate the merits of conflicting rights and responsibilities in global contexts"
-        },
-        "14680": {
-          "name": "Consider points of view",
-          "text": "use reasoning skills to prioritise the relative merits of points of view about complex ethical dilemmas"
+        "Level 6": {
+          "14680": {
+            "text": "use reasoning skills to prioritise the relative merits of points of view about complex ethical dilemmas"
+          }
         }
       }
     }

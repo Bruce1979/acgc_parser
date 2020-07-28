@@ -1,378 +1,416 @@
 {
   "literacy": {
     "Comprehending texts through listening, reading and viewing": {
-      "Level 1a": {
-        "14195": {
-          "name": "Comprehend texts",
-          "text": "use behaviours that are not intentionally directed at another person to:\n\nattend to, respond to or show interest in familiar people, texts, events and activities"
+      "Comprehend texts": {
+        "Level 1a": {
+          "14195": {
+            "text": "use behaviours that are not intentionally directed at another person to:\n\nattend to, respond to or show interest in familiar people, texts, events and activities"
+          }
+        },
+        "Level 1b": {
+          "14198": {
+            "text": "use informal behaviours that show consistent anticipation of events in regular routines to:\n\nattend consistently to familiar texts\nrespond consistently to social interactions with familiar people\ndemonstrate anticipation of predictable events\nrespond to questions\nrespond to requests"
+          }
         }
       },
-      "Level 1b": {
-        "14198": {
-          "name": "Comprehend texts",
-          "text": "use informal behaviours that show consistent anticipation of events in regular routines to:\n\nattend consistently to familiar texts\nrespond consistently to social interactions with familiar people\ndemonstrate anticipation of predictable events\nrespond to questions\nrespond to requests"
+      "Navigate read and view learning area texts": {
+        "Level 2": {
+          "14217": {
+            "text": "navigate, read and view texts with illustrations and simple graphics"
+          }
+        },
+        "Level 3": {
+          "14232": {
+            "text": "navigate, read and view different types of texts with illustrations and more detailed graphics"
+          }
+        },
+        "Level 4": {
+          "14256": {
+            "text": "navigate, read and view subject-specific texts with some challenging features and a range of graphic representations"
+          }
+        },
+        "Level 5": {
+          "14264": {
+            "text": "navigate, read and view a variety of challenging subject-specific texts with a wide range of graphic representations"
+          }
+        },
+        "Level 6": {
+          "14275": {
+            "text": "navigate, read and view a wide range of more demanding subject-specific texts with an extensive range of graphic representations"
+          }
         }
       },
-      "Level 2": {
-        "14217": {
-          "name": "Navigate read and view learning area texts",
-          "text": "navigate, read and view texts with illustrations and simple graphics"
+      "Listen and respond to learning area texts": {
+        "Level 2": {
+          "14227": {
+            "text": "listen to two or more step instructions for undertaking learning tasks, listen for information about topics being learned in spoken and audio texts, including audio-visual texts, and respond to texts read aloud"
+          }
         },
-        "14227": {
-          "name": "Listen and respond to learning area texts",
-          "text": "listen to two or more step instructions for undertaking learning tasks, listen for information about topics being learned in spoken and audio texts, including audio-visual texts, and respond to texts read aloud"
+        "Level 3": {
+          "14236": {
+            "text": "listen to spoken instructions with some detail for undertaking learning area tasks, listen to identify key information in spoken and audio texts, including audio-visual texts, and respond to texts read aloud"
+          }
         },
-        "14222": {
-          "name": "Interpret and analyse learning area texts",
-          "text": "interpret and use texts to explore topics, gather information and make some obvious inferences using comprehension strategies"
+        "Level 4": {
+          "14252": {
+            "text": "listen to detailed spoken instructions for undertaking learning tasks, listen to spoken and audio texts, including audio-visual texts, and respond to and interpret information and opinions presented"
+          }
+        },
+        "Level 5": {
+          "14260": {
+            "text": "listen to extended spoken and audio texts, including audio-visual texts, respond to and interpret stated and implied meanings, and evaluate information and ideas"
+          }
+        },
+        "Level 6": {
+          "14281": {
+            "text": "listen to a range of extended spoken and audio texts, including audio-visual texts, and respond to, interpret and evaluate ideas, information and opinions"
+          }
         }
       },
-      "Level 3": {
-        "14232": {
-          "name": "Navigate read and view learning area texts",
-          "text": "navigate, read and view different types of texts with illustrations and more detailed graphics"
+      "Interpret and analyse learning area texts": {
+        "Level 2": {
+          "14222": {
+            "text": "interpret and use texts to explore topics, gather information and make some obvious inferences using comprehension strategies"
+          }
         },
-        "14236": {
-          "name": "Listen and respond to learning area texts",
-          "text": "listen to spoken instructions with some detail for undertaking learning area tasks, listen to identify key information in spoken and audio texts, including audio-visual texts, and respond to texts read aloud"
+        "Level 3": {
+          "14239": {
+            "text": "interpret literal information and make inferences to expand topic knowledge using comprehension strategies"
+          }
         },
-        "14239": {
-          "name": "Interpret and analyse learning area texts",
-          "text": "interpret literal information and make inferences to expand topic knowledge using comprehension strategies"
-        }
-      },
-      "Level 4": {
-        "14256": {
-          "name": "Navigate read and view learning area texts",
-          "text": "navigate, read and view subject-specific texts with some challenging features and a range of graphic representations"
+        "Level 4": {
+          "14253": {
+            "text": "interpret and analyse information and ideas, comparing texts on similar topics or themes using comprehension strategies"
+          }
         },
-        "14252": {
-          "name": "Listen and respond to learning area texts",
-          "text": "listen to detailed spoken instructions for undertaking learning tasks, listen to spoken and audio texts, including audio-visual texts, and respond to and interpret information and opinions presented"
+        "Level 5": {
+          "14272": {
+            "text": "interpret and evaluate information, identify main ideas and supporting evidence, and analyse different perspectives using comprehension strategies"
+          }
         },
-        "14253": {
-          "name": "Interpret and analyse learning area texts",
-          "text": "interpret and analyse information and ideas, comparing texts on similar topics or themes using comprehension strategies"
-        }
-      },
-      "Level 5": {
-        "14264": {
-          "name": "Navigate read and view learning area texts",
-          "text": "navigate, read and view a variety of challenging subject-specific texts with a wide range of graphic representations"
-        },
-        "14260": {
-          "name": "Listen and respond to learning area texts",
-          "text": "listen to extended spoken and audio texts, including audio-visual texts, respond to and interpret stated and implied meanings, and evaluate information and ideas"
-        },
-        "14272": {
-          "name": "Interpret and analyse learning area texts",
-          "text": "interpret and evaluate information, identify main ideas and supporting evidence, and analyse different perspectives using comprehension strategies"
-        }
-      },
-      "Level 6": {
-        "14275": {
-          "name": "Navigate read and view learning area texts",
-          "text": "navigate, read and view a wide range of more demanding subject-specific texts with an extensive range of graphic representations"
-        },
-        "14281": {
-          "name": "Listen and respond to learning area texts",
-          "text": "listen to a range of extended spoken and audio texts, including audio-visual texts, and respond to, interpret and evaluate ideas, information and opinions"
-        },
-        "14283": {
-          "name": "Interpret and analyse learning area texts",
-          "text": "interpret and evaluate information within and between texts, comparing and contrasting information using comprehension strategies"
+        "Level 6": {
+          "14283": {
+            "text": "interpret and evaluate information within and between texts, comparing and contrasting information using comprehension strategies"
+          }
         }
       }
     },
     "Composing texts through speaking, writing and creating": {
-      "Level 1a": {
-        "14196": {
-          "name": "Compose texts",
-          "text": "use behaviours that are not intentionally directed at another person to:\n\nrefuse or reject\nreflect a preference or desire\nreflect state of wellbeing, for example contentment, joy, worry, pain\nreflect a physical state, for example hot, cold, nausea"
+      "Compose texts": {
+        "Level 1a": {
+          "14196": {
+            "text": "use behaviours that are not intentionally directed at another person to:\n\nrefuse or reject\nreflect a preference or desire\nreflect state of wellbeing, for example contentment, joy, worry, pain\nreflect a physical state, for example hot, cold, nausea"
+          }
+        },
+        "Level 1b": {
+          "14197": {
+            "text": "use informal behaviours to intentionally communicate a single message consistently in familiar environments with familiar people, such as to:\n\nrefuse or reject\nexpress a preference\nrequest the continuation of an activity\nrequest something new\nrequest more\nrequest attention"
+          }
         }
       },
-      "Level 1b": {
-        "14197": {
-          "name": "Compose texts",
-          "text": "use informal behaviours to intentionally communicate a single message consistently in familiar environments with familiar people, such as to:\n\nrefuse or reject\nexpress a preference\nrequest the continuation of an activity\nrequest something new\nrequest more\nrequest attention"
+      "Compose spoken written visual and multimodal learning area texts": {
+        "Level 2": {
+          "14230": {
+            "text": "compose and edit a small range of learning area texts"
+          }
+        },
+        "Level 3": {
+          "14231": {
+            "text": "compose and edit a range of learning area texts"
+          }
+        },
+        "Level 4": {
+          "14247": {
+            "text": "compose and edit learning area texts"
+          }
+        },
+        "Level 5": {
+          "14259": {
+            "text": "compose and edit longer sustained learning area texts"
+          }
+        },
+        "Level 6": {
+          "14284": {
+            "text": "compose and edit longer and more complex learning area texts"
+          }
         }
       },
-      "Level 2": {
-        "14230": {
-          "name": "Compose spoken written visual and multimodal learning area texts",
-          "text": "compose and edit a small range of learning area texts"
+      "Use language to interact with others": {
+        "Level 2": {
+          "14223": {
+            "text": "use pair, group and class discussions as learning tools to explore learning area topics, to represent ideas and relationships, and to prepare for creating texts"
+          }
         },
-        "14223": {
-          "name": "Use language to interact with others",
-          "text": "use pair, group and class discussions as learning tools to explore learning area topics, to represent ideas and relationships, and to prepare for creating texts"
+        "Level 3": {
+          "14240": {
+            "text": "use pair, group and class discussions about learning area topics as learning tools to explore and represent ideas and relationships, test possibilities and to prepare for creating texts"
+          }
         },
-        "14219": {
-          "name": "Deliver presentations",
-          "text": "plan, rehearse and deliver short presentations on learning area topics, incorporating some visual and multimodal elements"
+        "Level 4": {
+          "14251": {
+            "text": "use pair, group and class discussions and informal debates as learning tools to explore ideas and relationships, test possibilities, compare solutions and to prepare for creating texts"
+          }
+        },
+        "Level 5": {
+          "14266": {
+            "text": "use pair, group and class discussions and formal and informal debates as learning tools to explore ideas, test possibilities, compare solutions, rehearse ideas and arguments in preparation for creating texts"
+          }
+        },
+        "Level 6": {
+          "14286": {
+            "text": "use pair, group and class discussions and formal and informal debates as learning tools to explore ideas, compare solutions, evaluate information and ideas, refine opinions and arguments in preparation for creating texts"
+          }
         }
       },
-      "Level 3": {
-        "14231": {
-          "name": "Compose spoken written visual and multimodal learning area texts",
-          "text": "compose and edit a range of learning area texts"
+      "Deliver presentations": {
+        "Level 2": {
+          "14219": {
+            "text": "plan, rehearse and deliver short presentations on learning area topics, incorporating some visual and multimodal elements"
+          }
         },
-        "14240": {
-          "name": "Use language to interact with others",
-          "text": "use pair, group and class discussions about learning area topics as learning tools to explore and represent ideas and relationships, test possibilities and to prepare for creating texts"
+        "Level 3": {
+          "14233": {
+            "text": "plan, rehearse and deliver presentations on learning area topics, incorporating some learned content and appropriate visual and multimodal elements"
+          }
         },
-        "14233": {
-          "name": "Deliver presentations",
-          "text": "plan, rehearse and deliver presentations on learning area topics, incorporating some learned content and appropriate visual and multimodal elements"
-        }
-      },
-      "Level 4": {
-        "14247": {
-          "name": "Compose spoken written visual and multimodal learning area texts",
-          "text": "compose and edit learning area texts"
+        "Level 4": {
+          "14255": {
+            "text": "plan, research, rehearse and deliver presentations on learning area topics, selecting appropriate content and visual and multimodal elements to suit different audiences"
+          }
         },
-        "14251": {
-          "name": "Use language to interact with others",
-          "text": "use pair, group and class discussions and informal debates as learning tools to explore ideas and relationships, test possibilities, compare solutions and to prepare for creating texts"
+        "Level 5": {
+          "14265": {
+            "text": "plan, research, rehearse and deliver presentations on learning area topics, sequencing selected content and multimodal elements for accuracy and their impact on the audience"
+          }
         },
-        "14255": {
-          "name": "Deliver presentations",
-          "text": "plan, research, rehearse and deliver presentations on learning area topics, selecting appropriate content and visual and multimodal elements to suit different audiences"
-        }
-      },
-      "Level 5": {
-        "14259": {
-          "name": "Compose spoken written visual and multimodal learning area texts",
-          "text": "compose and edit longer sustained learning area texts"
-        },
-        "14266": {
-          "name": "Use language to interact with others",
-          "text": "use pair, group and class discussions and formal and informal debates as learning tools to explore ideas, test possibilities, compare solutions, rehearse ideas and arguments in preparation for creating texts"
-        },
-        "14265": {
-          "name": "Deliver presentations",
-          "text": "plan, research, rehearse and deliver presentations on learning area topics, sequencing selected content and multimodal elements for accuracy and their impact on the audience"
-        }
-      },
-      "Level 6": {
-        "14284": {
-          "name": "Compose spoken written visual and multimodal learning area texts",
-          "text": "compose and edit longer and more complex learning area texts"
-        },
-        "14286": {
-          "name": "Use language to interact with others",
-          "text": "use pair, group and class discussions and formal and informal debates as learning tools to explore ideas, compare solutions, evaluate information and ideas, refine opinions and arguments in preparation for creating texts"
-        },
-        "14277": {
-          "name": "Deliver presentations",
-          "text": "plan, research, rehearse and deliver presentations on more complex issues and learning area topics, combining visual and multimodal elements creatively to present ideas and information and support opinions and engage and persuade an audience"
+        "Level 6": {
+          "14277": {
+            "text": "plan, research, rehearse and deliver presentations on more complex issues and learning area topics, combining visual and multimodal elements creatively to present ideas and information and support opinions and engage and persuade an audience"
+          }
         }
       }
     },
     "Text knowledge": {
-      "Level 2": {
-        "14221": {
-          "name": "Use knowledge of text cohesion",
-          "text": "use knowledge of how texts are made cohesive through word repetitions and associations, synonyms and antonyms to comprehend and compose texts"
+      "Use knowledge of text cohesion": {
+        "Level 2": {
+          "14221": {
+            "text": "use knowledge of how texts are made cohesive through word repetitions and associations, synonyms and antonyms to comprehend and compose texts"
+          }
         },
-        "14226": {
-          "name": "Use knowledge of text structures",
-          "text": "use knowledge of the structure and features of learning area texts to comprehend and compose a growing range of texts with some teacher support"
+        "Level 3": {
+          "14238": {
+            "text": "use knowledge of how texts are made cohesive through linking words and phrases, for example \u2018so\u2019, \u2018therefore\u2019, \u2018then\u2019, \u2018in addition\u2019, and the correct use of pronouns to comprehend and compose texts"
+          }
+        },
+        "Level 4": {
+          "14258": {
+            "text": "use knowledge of how cohesive links can be made in texts through omitting and replacing words"
+          }
+        },
+        "Level 5": {
+          "14269": {
+            "text": "use knowledge of word functions to make connections in texts"
+          }
+        },
+        "Level 6": {
+          "14282": {
+            "text": "use knowledge of how the cohesion in texts is improved by strengthening the internal structure"
+          }
         }
       },
-      "Level 3": {
-        "14238": {
-          "name": "Use knowledge of text cohesion",
-          "text": "use knowledge of how texts are made cohesive through linking words and phrases, for example \u2018so\u2019, \u2018therefore\u2019, \u2018then\u2019, \u2018in addition\u2019, and the correct use of pronouns to comprehend and compose texts"
+      "Use knowledge of text structures": {
+        "Level 2": {
+          "14226": {
+            "text": "use knowledge of the structure and features of learning area texts to comprehend and compose a growing range of texts with some teacher support"
+          }
         },
-        "14235": {
-          "name": "Use knowledge of text structures",
-          "text": "use growing knowledge of the structure and features of learning area texts to comprehend and compose an increasing number and range of texts"
-        }
-      },
-      "Level 4": {
-        "14258": {
-          "name": "Use knowledge of text cohesion",
-          "text": "use knowledge of how cohesive links can be made in texts through omitting and replacing words"
+        "Level 3": {
+          "14235": {
+            "text": "use growing knowledge of the structure and features of learning area texts to comprehend and compose an increasing number and range of texts"
+          }
         },
-        "14254": {
-          "name": "Use knowledge of text structures",
-          "text": "use developing knowledge of the structure and features of learning area texts to comprehend and compose a range of more complex texts for identified purposes"
-        }
-      },
-      "Level 5": {
-        "14269": {
-          "name": "Use knowledge of text cohesion",
-          "text": "use knowledge of word functions to make connections in texts"
+        "Level 4": {
+          "14254": {
+            "text": "use developing knowledge of the structure and features of learning area texts to comprehend and compose a range of more complex texts for identified purposes"
+          }
         },
-        "14268": {
-          "name": "Use knowledge of text structures",
-          "text": "use wide knowledge of the structure and features of learning area texts to comprehend and compose texts, using creative adaptations of text structures and conventions for citing others"
-        }
-      },
-      "Level 6": {
-        "14282": {
-          "name": "Use knowledge of text cohesion",
-          "text": "use knowledge of how the cohesion in texts is improved by strengthening the internal structure"
+        "Level 5": {
+          "14268": {
+            "text": "use wide knowledge of the structure and features of learning area texts to comprehend and compose texts, using creative adaptations of text structures and conventions for citing others"
+          }
         },
-        "14276": {
-          "name": "Use knowledge of text structures",
-          "text": "use comprehensive knowledge of the structure and features of learning area texts to comprehend and compose complex texts in innovative ways, using conventions for citing others"
+        "Level 6": {
+          "14276": {
+            "text": "use comprehensive knowledge of the structure and features of learning area texts to comprehend and compose complex texts in innovative ways, using conventions for citing others"
+          }
         }
       }
     },
     "Grammar knowledge": {
-      "Level 2": {
-        "14218": {
-          "name": "Express opinion and point of view",
-          "text": "identify and use language that expresses feelings and opinions, and compares and evaluates people and things"
+      "Express opinion and point of view": {
+        "Level 2": {
+          "14218": {
+            "text": "identify and use language that expresses feelings and opinions, and compares and evaluates people and things"
+          }
         },
-        "14225": {
-          "name": "Use knowledge of sentence structures",
-          "text": "use simple and compound sentences to record observations, and make connections between ideas"
+        "Level 3": {
+          "14234": {
+            "text": "differentiate between the language of opinion and feeling and the language of factual reporting or recording"
+          }
         },
-        "14220": {
-          "name": "Use knowledge of words and word groups",
-          "text": "recognise and use nouns that represent people, places, things and ideas in the learning area and expand nouns to achieve greater precision"
+        "Level 4": {
+          "14250": {
+            "text": "use subjective, objective and evaluative language, and identify bias"
+          }
+        },
+        "Level 5": {
+          "14271": {
+            "text": "use language to evaluate an object, action or text, and language that is designed to persuade the reader/viewer"
+          }
+        },
+        "Level 6": {
+          "14285": {
+            "text": "use language that indirectly expresses opinions and constructs representations of people and events, and consider expressed and implied judgements"
+          }
         }
       },
-      "Level 3": {
-        "14234": {
-          "name": "Express opinion and point of view",
-          "text": "differentiate between the language of opinion and feeling and the language of factual reporting or recording"
+      "Use knowledge of sentence structures": {
+        "Level 2": {
+          "14225": {
+            "text": "use simple and compound sentences to record observations, and make connections between ideas"
+          }
         },
-        "14237": {
-          "name": "Use knowledge of sentence structures",
-          "text": "use simple, compound and complex sentence structures to describe, explain, report and make connections between ideas and events"
+        "Level 3": {
+          "14237": {
+            "text": "use simple, compound and complex sentence structures to describe, explain, report and make connections between ideas and events"
+          }
         },
-        "14242": {
-          "name": "Use knowledge of words and word groups",
-          "text": "recognise and use adverbs and prepositional phrases that provide detailed descriptions in the learning areas"
+        "Level 4": {
+          "14248": {
+            "text": "use simple, compound and complex sentence structures to record, explain, question, describe and elaborate ideas and events"
+          }
+        },
+        "Level 5": {
+          "14261": {
+            "text": "control a range of simple, compound and complex sentence structures to record, explain, question, argue, describe and link ideas, evidence and conclusions"
+          }
+        },
+        "Level 6": {
+          "14278": {
+            "text": "control a range of simple, compound and complex sentence structures to convey complex ideas, build and support arguments, and change emphasis"
+          }
         }
       },
-      "Level 4": {
-        "14250": {
-          "name": "Express opinion and point of view",
-          "text": "use subjective, objective and evaluative language, and identify bias"
+      "Use knowledge of words and word groups": {
+        "Level 2": {
+          "14220": {
+            "text": "recognise and use nouns that represent people, places, things and ideas in the learning area and expand nouns to achieve greater precision"
+          }
         },
-        "14248": {
-          "name": "Use knowledge of sentence structures",
-          "text": "use simple, compound and complex sentence structures to record, explain, question, describe and elaborate ideas and events"
+        "Level 3": {
+          "14242": {
+            "text": "recognise and use adverbs and prepositional phrases that provide detailed descriptions in the learning areas"
+          }
         },
-        "14245": {
-          "name": "Use knowledge of words and word groups",
-          "text": "expand and sharpen ideas through careful choice of verbs and phrases and elaborated tenses"
-        }
-      },
-      "Level 5": {
-        "14271": {
-          "name": "Express opinion and point of view",
-          "text": "use language to evaluate an object, action or text, and language that is designed to persuade the reader/viewer"
+        "Level 4": {
+          "14245": {
+            "text": "expand and sharpen ideas through careful choice of verbs and phrases and elaborated tenses"
+          }
         },
-        "14261": {
-          "name": "Use knowledge of sentence structures",
-          "text": "control a range of simple, compound and complex sentence structures to record, explain, question, argue, describe and link ideas, evidence and conclusions"
+        "Level 5": {
+          "14270": {
+            "text": "recognise and use aspects of language to suggest possibility, probability, obligation and conditionality"
+          }
         },
-        "14270": {
-          "name": "Use knowledge of words and word groups",
-          "text": "recognise and use aspects of language to suggest possibility, probability, obligation and conditionality"
-        }
-      },
-      "Level 6": {
-        "14285": {
-          "name": "Express opinion and point of view",
-          "text": "use language that indirectly expresses opinions and constructs representations of people and events, and consider expressed and implied judgements"
-        },
-        "14278": {
-          "name": "Use knowledge of sentence structures",
-          "text": "control a range of simple, compound and complex sentence structures to convey complex ideas, build and support arguments, and change emphasis"
-        },
-        "14274": {
-          "name": "Use knowledge of words and word groups",
-          "text": "develop higher order concepts in academic texts through language features that compact and generalise ideas"
+        "Level 6": {
+          "14274": {
+            "text": "develop higher order concepts in academic texts through language features that compact and generalise ideas"
+          }
         }
       }
     },
     "Word Knowledge": {
-      "Level 2": {
-        "14224": {
-          "name": "Use spelling knowledge",
-          "text": "spell topic words, new words with regular letter patterns and some common irregular words, and recognise meaning relationships between words such as \u2018\u2019play\u2019, \u2018playing\u2019, \u2018playground\u2019"
+      "Use spelling knowledge": {
+        "Level 2": {
+          "14224": {
+            "text": "spell topic words, new words with regular letter patterns and some common irregular words, and recognise meaning relationships between words such as \u2018\u2019play\u2019, \u2018playing\u2019, \u2018playground\u2019"
+          }
         },
-        "14229": {
-          "name": "Understand learning area vocabulary",
-          "text": "use mostly familiar vocabulary, with a steady introduction of new vocabulary in learning area contexts"
+        "Level 3": {
+          "14241": {
+            "text": "spell topic words, more complex irregular words, regular words and word families containing known letters and letter clusters, and use strategies for attempting unknown words"
+          }
+        },
+        "Level 4": {
+          "14257": {
+            "text": "spell topic words and use word origins, base words, prefixes and suffixes when spelling new words"
+          }
+        },
+        "Level 5": {
+          "14263": {
+            "text": "spell specialist topic words and use knowledge of word origins, base words, prefixes and suffixes and unusual letter combinations to spell correctly"
+          }
+        },
+        "Level 6": {
+          "14280": {
+            "text": "use knowledge of a wide range of English spelling conventions to spell unusual and technical words correctly and to deduce the meanings of unfamiliar words and spell unknown words"
+          }
         }
       },
-      "Level 3": {
-        "14241": {
-          "name": "Use spelling knowledge",
-          "text": "spell topic words, more complex irregular words, regular words and word families containing known letters and letter clusters, and use strategies for attempting unknown words"
+      "Understand learning area vocabulary": {
+        "Level 2": {
+          "14229": {
+            "text": "use mostly familiar vocabulary, with a steady introduction of new vocabulary in learning area contexts"
+          }
         },
-        "14243": {
-          "name": "Understand learning area vocabulary",
-          "text": "use growing subject-specific vocabulary to read, discuss and write about learning area topics"
-        }
-      },
-      "Level 4": {
-        "14257": {
-          "name": "Use spelling knowledge",
-          "text": "spell topic words and use word origins, base words, prefixes and suffixes when spelling new words"
+        "Level 3": {
+          "14243": {
+            "text": "use growing subject-specific vocabulary to read, discuss and write about learning area topics"
+          }
         },
-        "14246": {
-          "name": "Understand learning area vocabulary",
-          "text": "use vocabulary, including subject-specific vocabulary from a range of learning areas and vocabulary that expresses shades of meaning"
-        }
-      },
-      "Level 5": {
-        "14263": {
-          "name": "Use spelling knowledge",
-          "text": "spell specialist topic words and use knowledge of word origins, base words, prefixes and suffixes and unusual letter combinations to spell correctly"
+        "Level 4": {
+          "14246": {
+            "text": "use vocabulary, including subject-specific vocabulary from a range of learning areas and vocabulary that expresses shades of meaning"
+          }
         },
-        "14267": {
-          "name": "Understand learning area vocabulary",
-          "text": "use a wide range of new specialist and topic vocabulary to contribute to the specificity, authority and abstraction of texts"
-        }
-      },
-      "Level 6": {
-        "14280": {
-          "name": "Use spelling knowledge",
-          "text": "use knowledge of a wide range of English spelling conventions to spell unusual and technical words correctly and to deduce the meanings of unfamiliar words and spell unknown words"
+        "Level 5": {
+          "14267": {
+            "text": "use a wide range of new specialist and topic vocabulary to contribute to the specificity, authority and abstraction of texts"
+          }
         },
-        "14279": {
-          "name": "Understand learning area vocabulary",
-          "text": "use subject-specific vocabulary to express abstract concepts, and refine vocabulary choices to discriminate between shades of meaning"
+        "Level 6": {
+          "14279": {
+            "text": "use subject-specific vocabulary to express abstract concepts, and refine vocabulary choices to discriminate between shades of meaning"
+          }
         }
       }
     },
     "Visual Knowledge": {
-      "Level 2": {
-        "14228": {
-          "name": "Understand how visual elements create meaning",
-          "text": "describe how images add to, contradict or multiply the meanings of words in a text, and compare images with the accompanying print text"
-        }
-      },
-      "Level 3": {
-        "14244": {
-          "name": "Understand how visual elements create meaning",
-          "text": "identify the effects of choices in the construction of images, including framing and composition"
-        }
-      },
-      "Level 4": {
-        "14249": {
-          "name": "Understand how visual elements create meaning",
-          "text": "explain how analytical images such as figures, diagrams, tables, maps and graphs contribute to understanding of factual information in texts"
-        }
-      },
-      "Level 5": {
-        "14262": {
-          "name": "Understand how visual elements create meaning",
-          "text": "analyse the effects of different visual elements upon the reader/viewer, and how visual texts such as advertisements and informative texts draw on and allude to other texts to enhance meaning"
-        }
-      },
-      "Level 6": {
-        "14273": {
-          "name": "Understand how visual elements create meaning",
-          "text": "evaluate the impact of different visual choices in the composition of images, including symbolic images and movement of camera or light, to achieve different nuances"
+      "Understand how visual elements create meaning": {
+        "Level 2": {
+          "14228": {
+            "text": "describe how images add to, contradict or multiply the meanings of words in a text, and compare images with the accompanying print text"
+          }
+        },
+        "Level 3": {
+          "14244": {
+            "text": "identify the effects of choices in the construction of images, including framing and composition"
+          }
+        },
+        "Level 4": {
+          "14249": {
+            "text": "explain how analytical images such as figures, diagrams, tables, maps and graphs contribute to understanding of factual information in texts"
+          }
+        },
+        "Level 5": {
+          "14262": {
+            "text": "analyse the effects of different visual elements upon the reader/viewer, and how visual texts such as advertisements and informative texts draw on and allude to other texts to enhance meaning"
+          }
+        },
+        "Level 6": {
+          "14273": {
+            "text": "evaluate the impact of different visual choices in the composition of images, including symbolic images and movement of camera or light, to achieve different nuances"
+          }
         }
       }
     }
