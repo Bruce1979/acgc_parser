@@ -67,6 +67,9 @@ def parse_html(html, capability_name, capability_elements):
 
   # check if another page exists
   if next_page:
+    # to fix the % encoding in the CCT capablity when using
+    # the requests module
+    next_page = next_page.replace('%u2013','–')
     print('Getting', next_page)
     r = requests.get(next_page, headers=headers)
     soup = BeautifulSoup(r.text, 'html.parser')
@@ -78,13 +81,13 @@ headers = {
 }
 
 capability_elements = {
-  'literacy': ['Comprehending+texts+through+listening%2C+reading+and+viewing','Composing+texts+through+speaking%2C+writing+and+creating','Text+knowledge','Grammar+knowledge','Word+Knowledge','Visual+Knowledge'],
-  'numeracy': ['Estimating+and+calculating+with+whole+numbers','Recognising+and+using+patterns+and+relationships','Using+fractions%2C+decimals%2C+percentages%2C+ratios+and+rates','Using+spatial+reasoning','Interpreting+statistical+information','Using+measurement'],
-  'information-and-communication-technology-ict-capability': ['Applying+social+and+ethical+protocols+and+practices+when+using+ICT','Investigating+with+ICT','Creating+with+ICT','Communicating+with+ICT','Managing+and+operating+ICT'],
+  #'literacy': ['Comprehending+texts+through+listening%2C+reading+and+viewing','Composing+texts+through+speaking%2C+writing+and+creating','Text+knowledge','Grammar+knowledge','Word+Knowledge','Visual+Knowledge'],
+  #'numeracy': ['Estimating+and+calculating+with+whole+numbers','Recognising+and+using+patterns+and+relationships','Using+fractions%2C+decimals%2C+percentages%2C+ratios+and+rates','Using+spatial+reasoning','Interpreting+statistical+information','Using+measurement'],
+  #'information-and-communication-technology-ict-capability': ['Applying+social+and+ethical+protocols+and+practices+when+using+ICT','Investigating+with+ICT','Creating+with+ICT','Communicating+with+ICT','Managing+and+operating+ICT'],
   'critical-and-creative-thinking': ['Inquiring+–+identifying%2C+exploring+and+organising+information+and+ideas','Generating+ideas%2C+possibilities+and+actions','Reflecting+on+thinking+and+processes','Analysing%2C+synthesising+and+evaluating+reasoning+and+procedures'],
-  'personal-and-social-capability': ['Self-awareness','Self-management','Social+awareness','Social+management'],
-  'ethical-understanding': ['Understanding+ethical+concepts+and+issues','Reasoning+in+decision+making+and+actions','Exploring+values%2C+rights+and+responsibilities'],
-  'intercultural-understanding': ['Recognising+culture+and+developing+respect','Interacting+and+empathising+with+others','Reflecting+on+intercultural+experiences+and+taking+responsibility'],
+  #'personal-and-social-capability': ['Self-awareness','Self-management','Social+awareness','Social+management'],
+  #'ethical-understanding': ['Understanding+ethical+concepts+and+issues','Reasoning+in+decision+making+and+actions','Exploring+values%2C+rights+and+responsibilities'],
+  #'intercultural-understanding': ['Recognising+culture+and+developing+respect','Interacting+and+empathising+with+others','Reflecting+on+intercultural+experiences+and+taking+responsibility'],
 }
 
 # process data

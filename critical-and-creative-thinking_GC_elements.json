@@ -16,6 +16,21 @@
           "14481": {
             "text": "pose questions to expand their knowledge about the world"
           }
+        },
+        "Level 4": {
+          "14501": {
+            "text": "pose questions to clarify and interpret information and probe for causes and consequences"
+          }
+        },
+        "Level 5": {
+          "14509": {
+            "text": "pose questions to probe assumptions and investigate complex issues"
+          }
+        },
+        "Level 6": {
+          "14521": {
+            "text": "pose questions to critically analyse complex issues and abstract ideas"
+          }
         }
       },
       "Identify and clarify information and ideas": {
@@ -33,6 +48,21 @@
           "14489": {
             "text": "identify main ideas and select and clarify information from a range of sources"
           }
+        },
+        "Level 4": {
+          "14497": {
+            "text": "identify and clarify relevant information and prioritise ideas"
+          }
+        },
+        "Level 5": {
+          "14506": {
+            "text": "clarify information and ideas from texts or images when exploring challenging issues"
+          }
+        },
+        "Level 6": {
+          "14520": {
+            "text": "clarify complex information and ideas drawn from a range of sources"
+          }
         }
       },
       "Organise and process information": {
@@ -49,6 +79,21 @@
         "Level 3": {
           "14490": {
             "text": "collect, compare and categorise facts and opinions found in a widening range of sources"
+          }
+        },
+        "Level 4": {
+          "14500": {
+            "text": "analyse, condense and combine relevant information from multiple sources"
+          }
+        },
+        "Level 5": {
+          "14505": {
+            "text": "critically analyse information and evidence according to criteria such as validity and relevance"
+          }
+        },
+        "Level 6": {
+          "14518": {
+            "text": "critically analyse independently sourced information to determine bias and reliability"
           }
         }
       }
@@ -69,6 +114,21 @@
           "14487": {
             "text": "expand on known ideas to create new and imaginative combinations"
           }
+        },
+        "Level 4": {
+          "14499": {
+            "text": "combine ideas in a variety of ways and from a range of sources to create new possibilities"
+          }
+        },
+        "Level 5": {
+          "14503": {
+            "text": "draw parallels between known and new ideas to create new ways of achieving goals"
+          }
+        },
+        "Level 6": {
+          "14526": {
+            "text": "create and connect complex ideas using imagery, analogies and symbolism"
+          }
         }
       },
       "Consider alternatives": {
@@ -86,6 +146,21 @@
           "14486": {
             "text": "explore situations using creative thinking strategies to propose a range of alternatives"
           }
+        },
+        "Level 4": {
+          "14498": {
+            "text": "identify situations where current approaches do not work, challenge existing ideas and generate alternative solutions"
+          }
+        },
+        "Level 5": {
+          "14504": {
+            "text": "generate alternatives and innovative solutions, and adapt ideas, including when information is limited or conflicting"
+          }
+        },
+        "Level 6": {
+          "14523": {
+            "text": "speculate on creative options to modify ideas when circumstances change"
+          }
         }
       },
       "Seek solutions and put ideas into action": {
@@ -102,6 +177,21 @@
         "Level 3": {
           "14484": {
             "text": "experiment with a range of options when seeking solutions and putting ideas into action"
+          }
+        },
+        "Level 4": {
+          "14493": {
+            "text": "assess and test options to identify the most effective solution and to put ideas into action"
+          }
+        },
+        "Level 5": {
+          "14508": {
+            "text": "predict possibilities, and identify and test consequences when seeking solutions and putting ideas into action"
+          }
+        },
+        "Level 6": {
+          "14524": {
+            "text": "assess risks and explain contingencies, taking account of a range of perspectives, when seeking solutions and putting complex ideas into action"
           }
         }
       }
@@ -220,6 +310,21 @@
           "14488": {
             "text": "identify and apply appropriate reasoning and thinking strategies for particular outcomes"
           }
+        },
+        "Level 4": {
+          "14496": {
+            "text": "assess whether there is adequate reasoning and evidence to justify a claim, conclusion or outcome"
+          }
+        },
+        "Level 5": {
+          "14507": {
+            "text": "identify gaps in reasoning and missing elements in information"
+          }
+        },
+        "Level 6": {
+          "14525": {
+            "text": "analyse reasoning used in finding and applying solutions, and in choice of resources"
+          }
         }
       },
       "Draw conclusions and design a course of action": {
@@ -237,6 +342,21 @@
           "14480": {
             "text": "draw on prior knowledge and use evidence when choosing a course of action or drawing a conclusion"
           }
+        },
+        "Level 4": {
+          "14495": {
+            "text": "scrutinise ideas or concepts, test conclusions and modify actions when designing a course of action"
+          }
+        },
+        "Level 5": {
+          "14512": {
+            "text": "differentiate the components of a designed course of action and tolerate ambiguities when drawing conclusions"
+          }
+        },
+        "Level 6": {
+          "14519": {
+            "text": "use logical and abstract thinking to analyse and synthesise complex information to inform a course of action"
+          }
         }
       },
       "Evaluate procedures and outcomes": {
@@ -253,6 +373,21 @@
         "Level 3": {
           "14485": {
             "text": "explain and justify ideas and outcomes"
+          }
+        },
+        "Level 4": {
+          "14502": {
+            "text": "evaluate the effectiveness of ideas, products, performances, methods and courses of action against given criteria"
+          }
+        },
+        "Level 5": {
+          "14513": {
+            "text": "explain intentions and justify ideas, methods and courses of action, and account for expected and unexpected outcomes against criteria they have identified"
+          }
+        },
+        "Level 6": {
+          "14517": {
+            "text": "evaluate the effectiveness of ideas, products and performances and implement courses of action to achieve desired outcomes against criteria they have identified"
           }
         }
       }
